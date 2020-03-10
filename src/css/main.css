@@ -163,8 +163,12 @@ nav li a.active {
   background: rgba(255,255,255,0.7);
 }
 footer {
-
+  padding: 50px 0;
+  color: #FFF;
+  background: #686F77 url(/img/footer-bg.png) center bottom;
 }
 .footer-bottom {
   text-align: center;
+  background: rgba(0,0,0,0.45);
+  padding: 20px 0;
 }
