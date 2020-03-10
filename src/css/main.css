@@ -162,8 +162,17 @@ nav li a.active {
   z-index: 1;
   background: rgba(255,255,255,0.7);
 }
+
+.columns {
+  display: inline-block;
+  vertical-align: top;
+}
+.columns.four {
+  width: 24%;
+}
+
 footer {
-  padding: 50px 0;
+  padding: 50px 0 0;
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
 }
