@@ -98,13 +98,31 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
+a.button,
+a.button:visited,
+.form-submit {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font-size: 16px;
+  font-weight: bold;
+  color: #FFF;
+  background: #9458A1;
+  border-radius: 50px;
+  border: none;
+  padding: 10px 50px;
+}
 
 nav {
+  background: #FFF;
+  min-height: 80px;
+  padding: 20px 0;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  text-align: right;
+  z-index: 5;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.25);
 }
 nav img {
   float: left;
@@ -115,4 +133,15 @@ nav li {
 }
 nav li a {
   text-decoration: none;
+}
+
+.info {
+  margin: 0;
+  padding: 20px 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+  background: rgba(255,255,255,0.7);
 }
