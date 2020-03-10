@@ -115,6 +115,7 @@ a.button:visited,
 
 nav {
   background: #FFF;
+  text-align: right;
   min-height: 80px;
   padding: 20px 0;
   position: fixed;
