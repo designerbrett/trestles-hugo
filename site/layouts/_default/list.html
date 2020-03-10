@@ -1,6 +1,8 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+<div class="container">
+
+<h1>Blog</h1>
 
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
@@ -11,6 +13,8 @@
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
+</div>
+
 </div>
 
 {{end}}
