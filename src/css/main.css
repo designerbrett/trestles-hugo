@@ -86,8 +86,14 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
 
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+
 body {
   margin-top: 65px;
+  font-family: 'Titillium Web',sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  background: #686F77;
 }
 .container {
   max-width: 1200px;
