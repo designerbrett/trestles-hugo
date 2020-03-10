@@ -1,15 +1,40 @@
 {{ define "main" }}
 
-{{ partial "home-custom" }}
+<div class="container">
+  <div class="columns two">
+    <h1>Structural Correction vs. Traditional Chiropractic care</h1>
+    <p>As Structural Chiropractors in San Clemente we differ from traditional chiropractors who focus on symptom-based care. Our unique focus is, identifying and correcting structural abnormalities present in the body, which lead to the secondary conditions that bring people to our office. This is known as Structural Shift. We utilize specific examination tools on day one, and periodically throughout treatment to ensure that progress and adaptations are made specific to each patients needs.</p>
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+    <p>Structural correction is a non-invasive form of healthcare that focuses on restoring the body to its proper function through the detection and correction of Structural Shift. This is achieved through the use of Structural Chiropractic care, Myofascial Release Therapies, and/or High Powered Laser Therapy.</p>
 
-{{ partial "short-text" .Params.blurb}}
+    <p>As the ultimate resource for structural correction we look forward to meeting you.</p>
+  </div>
+  <div class="columns two">
+    <h2>Where Do I Get Started?</h2>
+  </div>
+</div>
 
-{{ partial "2-up" .Params }}
+<div class="appointment-section">
+Call (949) 284-6620
+to schedule an appointment for a complimentary consultation at Trestles Chiropractic.
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+Make an Appointment
+</div>
 
-{{ partial "blog" . }}
+<div class="form-section">
+  <div class="container">
+    “Many aspects of life can affect the structure of your spine such as stress, trauma, sports injuries”
+
+    Download your free copy
+    10 Questions You Should Ask Before Visiting a Chiropractor
+
+    FORM
+  </div>
+</div>
+
+
+<div class="container">
+  {{ partial "blog" . }}
+</div>
 
 {{ end }}
