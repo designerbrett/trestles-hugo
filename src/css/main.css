@@ -93,7 +93,6 @@ body {
   font-family: 'Titillium Web',sans-serif;
   font-size: 18px;
   line-height: 30px;
-  background: #686F77;
 }
 .container {
   max-width: 1200px;
@@ -105,4 +104,15 @@ nav {
   top: 0;
   left: 0;
   width: 100%;
+  text-align: right;
+}
+nav img {
+  float: left;
+}
+nav li {
+  display: inline-block;
+  vertical-align: top;
+}
+nav li a {
+  text-decoration: none;
 }
