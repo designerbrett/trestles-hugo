@@ -3,7 +3,9 @@
   {{ partial "head" . }}
   <body>
 
-    {{ block "header" . }}{{ partial "nav" . }}{{ partial "info" . }}{{end}}
+    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+
+    {{ block "top" . }}{{ partial "info" . }}{{end}}
 
     {{ block "main" . }}{{ end }}
 
