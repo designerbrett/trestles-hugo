@@ -169,6 +169,9 @@ nav li a.active {
   z-index: 1;
   background: rgba(255,255,255,0.7);
 }
+.info a {
+    text-decoration: none;
+}
 .info li {
     display: inline-block;
     vertical-align: top;
@@ -177,8 +180,14 @@ nav li a.active {
     font-size: 20px;
     font-weight: 600;
 }
-info li.address-block:before {
+.info li.address-block:before {
     background-image: url(/img/home.png);
+}
+.info li.phone-block:before {
+    background-image: url(/img/phone.png);
+}
+.info li.hours-block:before {
+    background-image: url(/img/clock.png);
 }
 .columns {
   display: inline-block;
