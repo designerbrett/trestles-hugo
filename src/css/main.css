@@ -73,6 +73,8 @@
 @import './imports/_svg';
 @import './imports/_cms';*/
 
+@import './imports/_lists';
+
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
 @import './imports/_colors';
@@ -93,6 +95,11 @@ body {
   font-family: 'Titillium Web',sans-serif;
   font-size: 18px;
   line-height: 30px;
+}
+.region-highlighted {
+    background: url(/img/interior-header.png) no-repeat center bottom;
+    min-height: 170px;
+    position: relative;
 }
 .container {
   max-width: 1200px;
