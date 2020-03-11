@@ -177,6 +177,9 @@ nav li a.active {
     font-size: 20px;
     font-weight: 600;
 }
+info li.address-block:before {
+    background-image: url(/img/home.png);
+}
 .columns {
   display: inline-block;
   vertical-align: top;
