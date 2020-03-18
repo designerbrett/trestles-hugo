@@ -105,10 +105,16 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
 h1 {
   font-size: 50px;
   line-height: 60px;
   margin-bottom: 20px;
+}
+h2 {
+    
 }
 button,
 a.button,
@@ -124,6 +130,7 @@ a.button:visited,
   border-radius: 50px;
   border: none;
   padding: 10px 50px;
+  text-decoration: none;
 }
 
 nav {
@@ -245,6 +252,10 @@ footer .columns.four.last {
 }
 footer a {
     text-decoration: none;
+}
+footer h2 {
+    font-size: 20px;
+    font-weight: bold;
 }
 .footer-bottom {
   text-align: center;
