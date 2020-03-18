@@ -47,6 +47,14 @@ h3 {
     font-size: 24px;
     line-height: 28px;
 }
+a {
+    color: #087EA3;
+}
+a.more-link {
+    text-transform: uppercase;
+    font-size: 14px;
+    text-decoration: none;
+}
 button,
 a.button,
 a.button:visited,
