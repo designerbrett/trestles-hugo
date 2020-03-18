@@ -286,6 +286,8 @@ li.hours-block:before {
     font-size: 20px;
     line-height: 28px;
     margin: 0;
+}
+.form-section .form {
     width: 33%;
     padding: 3%;
     background: #FFF;
