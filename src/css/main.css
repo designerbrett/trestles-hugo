@@ -5,12 +5,6 @@
 
 @import './imports/_lists';
 
-/* Variables */
-/* Importing here will allow you to override any variables in the modules */
-@import './imports/_colors';
-@import './imports/_media-queries';
-@import './imports/_variables';
-
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
 
 body {
@@ -191,6 +185,20 @@ li.hours-block:before {
     text-align: center;
     border-right: 1px solid #ccc;
     padding: 10px 0;
+}
+.sticky-contact li.last {
+    border: none;
+}
+.sticky-contact li a {
+    
+}
+.sticky-contact li.address-block:before, 
+.sticky-contact li.hours-block:before, 
+.sticky-contact li.phone-block:before {
+    float: none !important;
+    padding-right: 10px !important;
+    display: inline-block;
+    vertical-align: middle;
 }
 .columns {
   display: inline-block;
