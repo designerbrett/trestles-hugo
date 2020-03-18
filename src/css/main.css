@@ -24,6 +24,9 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+.hidden {
+    display: none;
+}
 p {
     margin: 0 0 1.2em;
 }

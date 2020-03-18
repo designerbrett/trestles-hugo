@@ -62,9 +62,20 @@
             <img style="float: right;" src="/img/book-example_0.png" alt="" width="101" height="104">
             <p>Download your free copy<br><span>10 Questions You Should Ask Before Visiting a Chiropractor</span></p>
         </div>
-      </div>
-
-    FORM
+    </div>
+    <div class="form">
+        <form name="ebook-signup" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+          <p class="hidden">
+            <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+          </p>
+          <p>
+            <label>Your Email: <input type="email" name="email" /></label>
+          </p>
+          <p>
+            <button type="submit">SIGN UP »</button>
+          </p>
+        </form>
+    </div>
   </div>
 </div>
 
