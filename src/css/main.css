@@ -147,7 +147,16 @@ nav li a.active {
   width: 24%;
 }
 .columns.two {
-  width: 49%;
+    width: 48%;
+    margin-right: 3%;
+}
+.columns.two.last {
+    margin: 0;
+}
+.home-callouts h1 {
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 20px;
 }
 
 .appointment-section {
