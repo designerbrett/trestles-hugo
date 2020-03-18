@@ -93,6 +93,16 @@ a.button:visited.outline:hover,
     background: #FFF;
     color: #26B3DE;
 }
+form label {
+    font-weight: normal !important;
+    font-style: italic;
+}
+form .form-item .form-textarea, 
+form .form-item .form-text {
+    border: 1px solid #CCC;
+    padding: 2%;
+    max-width: 96%;
+}
 
 nav {
   background: #FFF;
@@ -262,14 +272,25 @@ li.hours-block:before {
 .form-section {
     background: url(/img/form-background.png) no-repeat center center;
     background-size: cover;
+    padding: 30px 0;
 }
 .quote {
     font-size: 34px;
     line-height: 42px;
+    display: inline-block;
+    vertical-align: top;
+    width: 57%;
+    margin-right: 3%;
 }
 .book-cta {
     font-size: 20px;
     line-height: 28px;
+    margin: 0;
+    width: 33%;
+    padding: 3%;
+    background: #FFF;
+    display: inline-block;
+    vertical-align: top;
 }
 
 footer {
