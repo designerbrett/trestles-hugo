@@ -29,6 +29,9 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+p {
+    margin: 0 0 1.2em;
+}
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
@@ -70,6 +73,23 @@ a.button:visited,
   border: none;
   padding: 10px 50px;
   text-decoration: none;
+}
+button:hover,
+a.button:hover,
+.form-submit:hover {
+    background: #753B83;
+}
+a.button.outline, 
+a.button:visited.outline, 
+.form-submit.outline {
+    background: transparent;
+    border: 2px solid #FFF;
+}
+a.button.outline:hover, 
+a.button:visited.outline:hover, 
+.form-submit.outline:hover {
+    background: #FFF;
+    color: #26B3DE;
 }
 
 nav {
@@ -117,6 +137,7 @@ nav li a.active {
 }
 .info a {
     text-decoration: none;
+    color: #333;
 }
 .info li {
     display: inline-block;
@@ -205,6 +226,7 @@ footer .columns.four.last {
 }
 footer a {
     text-decoration: none;
+    color: #FFF;
 }
 footer h2 {
     font-size: 20px;
