@@ -97,8 +97,8 @@ form label {
     font-weight: normal !important;
     font-style: italic;
 }
-form .form-item .form-textarea, 
-form .form-item .form-text {
+form .form-textarea, 
+form .form-text {
     border: 1px solid #CCC;
     padding: 2%;
     max-width: 96%;
