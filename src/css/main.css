@@ -226,6 +226,7 @@ li.hours-block:before {
 }
 .image-ctas img {
     width: 100%;
+    height: auto;
 }
 .icon-title-link {
     margin-bottom: 30px;
