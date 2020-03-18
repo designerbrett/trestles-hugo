@@ -236,6 +236,13 @@ footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
 }
+footer .columns.four {
+    width: 21%;
+    margin: 0 3% 0 0;
+}
+footer .columns.four.last {
+    margin: 0;
+}
 footer a {
     text-decoration: none;
 }
