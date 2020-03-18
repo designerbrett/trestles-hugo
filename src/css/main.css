@@ -187,7 +187,9 @@ nav li a.active {
     line-height: 44px;
     margin-bottom: 20px;
 }
-
+.image-ctas img {
+    width: 100%;
+}
 .appointment-section {
     background-color: #333 !important;
     background-image: url(/img/david-paschke-173850.jpg) !important;
