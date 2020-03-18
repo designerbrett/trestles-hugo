@@ -209,6 +209,28 @@ nav li a.active {
   width: 24%;
 }
 
+.appointment-section {
+    background-color: #333 !important;
+    background-image: url(/img/david-paschke-173850.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-attachment: scroll !important;
+    background-position: center center !important;
+    background-size: cover !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/david-paschke-173850.jpg',sizingMethod='scale');
+    -ms-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/david-paschke-173850.jpg',sizingMethod='scale');
+}
+.appointment-section .content-wrapper {
+    background: rgba(38,179,222,0.75);
+    padding: 80px 20%;
+    text-align: center;
+    color: #FFF;
+    font-size: 40px;
+    line-height: 44px;
+}
+
 footer {
   padding: 50px 0 0;
   color: #FFF;
