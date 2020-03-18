@@ -152,9 +152,9 @@ nav li a.active {
     font-size: 20px;
     font-weight: 600;
 }
-.info li.address-block:before, 
-.info li.phone-block:before, 
-.info li.hours-block:before {
+li.address-block:before, 
+li.phone-block:before, 
+li.hours-block:before {
     background-size: 32px;
     background-repeat: no-repeat;
     background-position: center center;
@@ -164,13 +164,13 @@ nav li a.active {
     height: 32px;
     content: "";
 }
-.info li.address-block:before {
+li.address-block:before {
     background-image: url(/img/home.png);
 }
-.info li.phone-block:before {
+.li.phone-block:before {
     background-image: url(/img/phone.png);
 }
-.info li.hours-block:before {
+.li.hours-block:before {
     background-image: url(/img/clock.png);
 }
 .columns {
