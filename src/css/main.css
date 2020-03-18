@@ -256,6 +256,18 @@ li.hours-block:before {
     font-size: 40px;
     line-height: 44px;
 }
+.form-section {
+    background: url(/img/form-background.png) no-repeat center center;
+    background-size: cover;
+}
+.quote {
+    font-size: 34px;
+    line-height: 42px;
+}
+.book-cta {
+    font-size: 20px;
+    line-height: 28px;
+}
 
 footer {
   color: #FFF;
