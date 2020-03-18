@@ -167,11 +167,30 @@ li.hours-block:before {
 li.address-block:before {
     background-image: url(/img/home.png);
 }
-.li.phone-block:before {
+li.phone-block:before {
     background-image: url(/img/phone.png);
 }
-.li.hours-block:before {
+li.hours-block:before {
     background-image: url(/img/clock.png);
+}
+.sticky-contact {
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #f1f1f1;
+    z-index: 9999;
+    text-align: center;
+}
+.sticky-contact li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 32%;
+    text-align: center;
+    border-right: 1px solid #ccc;
+    padding: 10px 0;
 }
 .columns {
   display: inline-block;
