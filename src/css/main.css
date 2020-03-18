@@ -197,7 +197,6 @@ li.hours-block:before {
 .sticky-contact li.hours-block:before, 
 .sticky-contact li.phone-block:before {
     float: none !important;
-    padding-right: 10px !important;
     display: inline-block;
     vertical-align: middle;
 }
