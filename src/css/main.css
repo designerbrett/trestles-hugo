@@ -139,6 +139,9 @@ nav li a.active {
 .columns.four {
   width: 24%;
 }
+.columns.two {
+  width: 49%;
+}
 
 .appointment-section {
     background-color: #333 !important;
