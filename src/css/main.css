@@ -236,10 +236,16 @@ footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
 }
+footer a {
+    text-decoration: none;
+}
 .footer-bottom {
   text-align: center;
   background: rgba(0,0,0,0.45);
   padding: 20px 0;
+}
+footer .first {
+    text-align: center;
 }
 footer .footer-hours-block ul li {
     border-bottom: 1px solid #9B9B9B;
