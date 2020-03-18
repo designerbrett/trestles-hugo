@@ -18,6 +18,7 @@ body {
   font-family: 'Titillium Web',sans-serif;
   font-size: 18px;
   line-height: 30px;
+  color: #444;
 }
 .region-highlighted {
     background: url(/img/interior-header.png) no-repeat center bottom;
@@ -186,6 +187,10 @@ nav li a.active {
     font-size: 40px;
     line-height: 44px;
     margin-bottom: 20px;
+}
+.image-ctas {
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 .image-ctas img {
     width: 100%;
