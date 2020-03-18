@@ -266,3 +266,12 @@ footer .footer-stay-connected-block a:before {
 footer .footer-stay-connected-block a.facebook:before {
     background-image: url(/img/facebook.png);
 }
+footer .footer-stay-connected-block a.yelp:before {
+    background-image: url(/img/yelp.png);
+}
+footer .footer-stay-connected-block a.linkedin:before {
+    background-image: url(/img/linkedin.png);
+}
+footer .footer-stay-connected-block a.yellowpages:before {
+    background-image: url(/img/yellowpages.png);
+}
