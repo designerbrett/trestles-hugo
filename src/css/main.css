@@ -190,7 +190,8 @@ li.hours-block:before {
     border: none;
 }
 .sticky-contact li a {
-    
+    text-decoration: none;
+    color: #9458a1;
 }
 .sticky-contact li.address-block:before, 
 .sticky-contact li.hours-block:before, 
