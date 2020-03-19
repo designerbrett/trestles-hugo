@@ -402,6 +402,18 @@ img {vertical-align: middle;}
     vertical-align: top;
 }
 
+.sidebar {
+    width: 30%;
+    margin-right: 2%;
+    display: inline-block;
+    vertical-align: top;
+}
+.main-with-sidebar {
+    display: inline-block;
+    vertical-align: top;
+    width: 67%;
+}
+
 footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
