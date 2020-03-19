@@ -96,6 +96,7 @@ a.button:visited.outline:hover,
 form label {
     font-weight: normal !important;
     font-style: italic;
+    display: block;
 }
 form textarea, 
 form input {
@@ -281,6 +282,9 @@ li.hours-block:before {
     vertical-align: top;
     width: 57%;
     margin-right: 3%;
+}
+.quote img {
+    margin-right: 24px;
 }
 .book-cta {
     font-size: 20px;
