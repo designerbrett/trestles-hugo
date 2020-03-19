@@ -291,6 +291,10 @@ li.hours-block:before {
     line-height: 28px;
     margin: 0;
 }
+.book-cta span {
+    font-size: 24px;
+    font-weight: bold;
+}
 .form-section .form {
     width: 33%;
     padding: 3%;
