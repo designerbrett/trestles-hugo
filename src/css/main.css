@@ -102,7 +102,7 @@ form textarea,
 form input {
     border: 1px solid #CCC;
     padding: 2%;
-    max-width: 96%;
+    width: 96%;
 }
 
 nav {
