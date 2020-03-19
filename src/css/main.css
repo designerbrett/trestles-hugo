@@ -19,6 +19,9 @@ body {
     min-height: 170px;
     position: relative;
 }
+.Home .region-highlighted {
+    min-height: 0;
+}
 .container {
   max-width: 1160px;
   margin: 0 auto;
