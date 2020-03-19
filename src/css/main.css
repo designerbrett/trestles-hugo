@@ -104,7 +104,7 @@ form label {
 form textarea, 
 form input {
     border: 1px solid #CCC;
-    padding: 2%;
+    padding: 1% 2%;
     width: 96%;
 }
 
