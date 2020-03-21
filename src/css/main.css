@@ -145,26 +145,26 @@ nav li a.active {
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 1;
+  z-index: 5;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #FFF;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
+  box-shadow: 0 0 16px #ccc;
 }
 
 .sidenav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 25px;
-  color: #818181;
+  font-size: 20px;
   display: block;
   transition: 0.3s;
 }
 
 .sidenav a:hover {
-  color: #f1f1f1;
+  
 }
 
 .sidenav .closebtn {
