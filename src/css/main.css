@@ -24,6 +24,11 @@ body {
     min-height: 170px;
     position: relative;
 }
+@media only screen and (max-width: 920px) {
+    .region-highlighted {
+        min-height: 67px;
+    }
+}
 .Home .region-highlighted {
     min-height: 0;
 }
@@ -358,7 +363,6 @@ img {vertical-align: middle;}
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
-  width: 100%;
   text-align: center;
 }
 
