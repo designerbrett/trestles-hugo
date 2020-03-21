@@ -285,6 +285,12 @@ li.hours-block:before {
     width: 48%;
     margin-right: 3%;
 }
+@media only screen and (max-width: 860px) {
+    .columns.two {
+        margin: 0;
+        width: 100%;
+    }
+}
 .columns.two.last {
     margin: 0;
 }
@@ -464,11 +470,11 @@ img {vertical-align: middle;}
 }
 @media only screen and (max-width: 900px) {
     .quote {
-        width: 100%;
+        width: 93%;
         margin: 0;
     }
     .form-section .form {
-        width: 100%;
+        width: 93%;
     }
 }
 
@@ -556,17 +562,17 @@ footer .footer-stay-connected-block a.yellowpages:before {
     margin: 0;
 }
 @media only screen and (max-width: 1070px) {
+    footer .container {
+        padding: 24px;
+    }
     footer .columns.four {
         width: 46%;
     }
 }
 @media only screen and (max-width: 600px) {
-    footer .container {
-        padding: 24px;
-    }
     footer .columns.four {
         width: 100%;
-        margin: 0;
+        margin: 0 0 16px;
     }
 }
 
