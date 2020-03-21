@@ -80,3 +80,16 @@ function showSlides(n) {
       document.getElementById("mySidenav").style.width = "0";
     }
 </script>
+
+<script type="text/javascript">
+    !function(doc, id){
+      var js;
+      var scriptElement = doc.getElementsByTagName("script")[0];
+      if (!doc.getElementById(id)) {
+        js = doc.createElement("script");
+        js.id = id;
+        js.src = "//dyn.yelpcdn.com/biz_badge_js/fsc/n1WJQqKjXj4yNYTwMTSTmQ.js";
+        scriptElement.parentNode.insertBefore(js, scriptElement);
+      }
+    } (document, "yelp-biz-badge-script-fsc-n1WJQqKjXj4yNYTwMTSTmQ");
+</script>
