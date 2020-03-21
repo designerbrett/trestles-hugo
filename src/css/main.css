@@ -579,6 +579,11 @@ footer .footer-stay-connected-block a.yellowpages:before {
         margin: 0 0 16px;
     }
 }
+@media only screen and (max-width: 550px) {
+    .About img {
+        float: none;
+    }
+}
 
 .mobile {
     display: none;
