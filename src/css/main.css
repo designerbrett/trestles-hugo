@@ -14,7 +14,7 @@ body {
   line-height: 30px;
   color: #444;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 920px) {
     body {
         margin-top: 86px;
     }
@@ -128,7 +128,7 @@ nav {
 nav img {
   float: left;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 920px) {
     nav {
         min-height: inherit;
     }
@@ -177,10 +177,6 @@ nav li a.active {
   font-size: 20px;
   display: block;
   transition: 0.3s;
-}
-
-.sidenav a:hover {
-  
 }
 
 .sidenav .closebtn {
@@ -429,6 +425,11 @@ img {vertical-align: middle;}
     font-size: 40px;
     line-height: 44px;
 }
+@media only screen and (max-width: 900px) {
+    .appointment-section .content-wrapper {
+        padding: 24px;
+    }
+}
 .form-section {
     background: url(/img/form-background.png) no-repeat center center;
     background-size: cover;
@@ -460,6 +461,15 @@ img {vertical-align: middle;}
     background: #FFF;
     display: inline-block;
     vertical-align: top;
+}
+@media only screen and (max-width: 900px) {
+    .quote {
+        width: 100%;
+        margin: 0;
+    }
+    .form-section .form {
+        width: 100%;
+    }
 }
 
 .sidebar {
