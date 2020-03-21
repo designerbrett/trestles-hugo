@@ -498,6 +498,16 @@ img {vertical-align: middle;}
     vertical-align: top;
     width: 67%;
 }
+@media only screen and (max-width: 800px) {
+    .sidebar,
+    .main-with-sidebar{
+        width: 100%;
+    }
+    .sidebar .sidebar-left,
+    .sidebar .sidebar-right {
+        margin: 0;   
+    }
+}
 
 footer {
   color: #FFF;
@@ -588,7 +598,6 @@ footer .footer-stay-connected-block a.yellowpages:before {
 .mobile {
     display: none;
 }
-
 @media only screen and (max-width: 920px) {
     .mobile {
         display: block;
