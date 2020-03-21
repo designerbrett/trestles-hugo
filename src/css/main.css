@@ -135,6 +135,9 @@ nav img {
     nav img {
       width: 120px;
     }
+    nav span {
+        padding-top: 7px;
+    }
 }
 nav li {
   display: inline-block;
