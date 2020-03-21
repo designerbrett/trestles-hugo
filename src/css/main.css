@@ -14,6 +14,11 @@ body {
   line-height: 30px;
   color: #444;
 }
+@media only screen and (max-width: 600px) {
+    body {
+        margin-top: 86px;
+    }
+}
 .region-highlighted {
     background: url(/img/interior-header.png) no-repeat center bottom;
     min-height: 170px;
@@ -122,6 +127,14 @@ nav {
 }
 nav img {
   float: left;
+}
+@media only screen and (max-width: 600px) {
+    nav {
+        min-height: inherit;
+    }
+    nav img {
+      width: 120px;
+    }
 }
 nav li {
   display: inline-block;
