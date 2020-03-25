@@ -382,8 +382,21 @@ img {
   margin: auto;
 }
 
+@media only screen and (max-width: 850px) {
+    .mySlides:before {
+        display: none;
+    }
+    .mySlides .text {
+        position: relative;
+        width: 92%;
+        padding: 4%;
+        background: #333
+    }
+}
+
 /* Next & previous buttons */
-.prev, .next {
+.prev, 
+.next {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -405,7 +418,8 @@ img {
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.prev:hover, 
+.next:hover {
   background-color: rgba(0,0,0,0.8);
 }
 
@@ -464,7 +478,11 @@ img {
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
-  .prev, .next,.text {font-size: 11px}
+  .prev, 
+  .next,
+  .text {
+      font-size: 11px;
+    }
 }
 
 .appointment-section {
