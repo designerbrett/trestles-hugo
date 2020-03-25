@@ -15,7 +15,11 @@
 
     <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       
-      <p>{{ .Tags }}</p>
+    <ul>
+        {{ range (.GetTerms "tags") }}
+            <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+       {{ end }}
+    </ul>
 
     {{ .Content }}
   </div>
