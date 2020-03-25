@@ -5,6 +5,7 @@ description: >-
   I would like to give a huge Welcome to Dr. Skyler Alvord to the Trestles
   Chiropractic team.
 image: img/skyler-headshot.jpg
+tags: []
 ---
 I would like to give a huge Welcome to Dr. Skyler Alvord to the Trestles Chiropractic team. I have been in talks with Dr. Skyler for a year and a half to bring him on board. Our hard work has finally paid off and I couldn't be more excited to have him work with my team. Check out his Bio below to get to know him a bit better.
 
