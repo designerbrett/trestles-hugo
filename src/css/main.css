@@ -609,11 +609,25 @@ img {
     margin-right: 8px;
 }
 
-.Home .blog-title,
-.Home .post-row {
+.Home .blog-title {
     display: inline-block;
     vertical-align: top;
     width: 24%;
+    margin-right: 3%
+}
+.Home .homepage-posts {
+    display: inline-block;
+    vertical-align: top;
+    width: 72%;
+}
+.Home .post-row {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+    margin-left: 2%;
+}
+.Home .post-row:nth-child(1) {
+    margin: 0;
 }
 .Home .blog-title {
     margin-left: 0;
