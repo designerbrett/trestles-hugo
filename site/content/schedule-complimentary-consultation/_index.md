@@ -1,7 +1,6 @@
 ---
 title: Schedule Complimentary Consultation
----
-**Trestles Chiropractic is the Ultimate resource for Structural Correction in San Clemente, Dana Point, San Juan Capistrano, and Laguna Niguel.**
+text: '**Trestles Chiropractic is the Ultimate resource for Structural Correction in San Clemente, Dana Point, San Juan Capistrano, and Laguna Niguel.**
 
 A consultation with the Doctor is just that. A simple conversation about your health. **This is not an Examination or Sales Pitch.**
 
@@ -19,4 +18,5 @@ Following your consultation you’ll have the option to move forward with a comp
 * Digital Structural Assessment
 * Physical Structural Analysis
 
-Once again, there is no charge for a consultation, and there will be no high-pressured sales gimmicks.
+Once again, there is no charge for a consultation, and there will be no high-pressured sales gimmicks.'
+---
