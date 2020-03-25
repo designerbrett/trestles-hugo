@@ -3,8 +3,6 @@
 /* External Library Includes */
 @import './imports/_reset';
 
-@import './imports/_lists';
-
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
 
 body {
