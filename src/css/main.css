@@ -486,6 +486,14 @@ img {
     .slide-pager {
         display: none;
     }
+    .mySlides .text h2 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .mySlides a.button {
+        background: #FFF;
+        color: #9458a1;
+    }
 }
 
 /* On smaller screens, decrease text size */
