@@ -1,5 +1,5 @@
 ---
-title: "Ask the Doctor"
+title: "schedule complimentary consultation"
 values:
   - heading: "Shade-grown coffee"
     text: >
