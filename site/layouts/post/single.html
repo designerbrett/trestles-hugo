@@ -1,5 +1,13 @@
 {{ define "main" }}
 
+<div class="breadcrumbs">
+    <ul>
+        <li><a href="/">Home</a> ></li>
+        <li><a href="/post">Blog</a> ></li>
+        <li>{{.Title}}</li>
+    </ul>
+</div>
+
   <div class="blog-post container">
     <h1>{{.Title}}</h1>
     {{ if .Params.image }}<img class="main-image" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
