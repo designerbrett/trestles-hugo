@@ -114,7 +114,11 @@
 </div>
 
 <div class="container">
-    <ul>
+    <div class="blog-title">
+        <h2>Health Tips</h2>
+        <a href="button">Read All Tips</a>
+    </div>
+    <ul class="homepage-posts">
       {{ range (.Paginator 3).Pages.ByPublishDate.Reverse }}
           <div class="post-row">
             {{ .Render "li"}}

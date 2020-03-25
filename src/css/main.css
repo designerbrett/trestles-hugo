@@ -609,6 +609,24 @@ img {
     margin-right: 8px;
 }
 
+.Home .blog-title,
+.Home .post-row {
+    display: inline-block;
+    vertical-align: top;
+    width: 24%;
+}
+.Home .post-row .post-image {
+    display: block;
+    width: 100%;
+}
+.Home .post-row h2 {
+    font-size: 20px;
+    line-height: 24px;
+}
+.Home .post-row .post-date {
+    display: none;
+}
+
 .post-row {
     margin-bottom: 24px;
 }
