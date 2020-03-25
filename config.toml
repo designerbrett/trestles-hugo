@@ -1,2 +1,5 @@
 languageCode = "en-us"
 title = "Trestles Chiropractic"
+[taxonomies]
+    tag = tags
+    category = categories
