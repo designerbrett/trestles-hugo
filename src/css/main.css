@@ -600,6 +600,9 @@ img {
     }
 }
 
+.post-row {
+    margin-bottom: 24px;
+}
 .post-row a {
     display: block;
     list-style: none;
@@ -614,8 +617,11 @@ img {
     display: inline-block;
     vertical-align: top;
 }
+.post-row .post-image img {
+    width: 100%;
+}
 .post-row .post-list-content {
-    width: 74%;
+    width: 68%;
     display: inline-block;
     vertical-align: top;
 }
