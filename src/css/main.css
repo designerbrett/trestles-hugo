@@ -619,17 +619,19 @@ img {
     width: 30%;
     display: inline-block;
     vertical-align: top;
+    max-height: 230px;
+    overflow: hidden;
 }
 .post-row .post-image img {
     max-width: 100%;
 }
 .post-row .post-list-content {
-    width: 68%;
+    width: 66%;
     display: inline-block;
     vertical-align: top;
 }
 
-.blog-post .main-image img {
+.blog-post img.main-image {
     max-width: 400px;
     float: left;
     margin: 0 16px 16px 0;
