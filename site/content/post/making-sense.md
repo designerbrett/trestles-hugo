@@ -1,27 +1,17 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: Welcome Dr Skyler
+date: 2019-12-17T15:04:00.000Z
+description: >-
+  I would like to give a huge Welcome to Dr. Skyler Alvord to the Trestles
+  Chiropractic team.
+image: img/skyler-headshot.jpg
 ---
+I would like to give a huge Welcome to Dr. Skyler Alvord to the Trestles Chiropractic team. I have been in talks with Dr. Skyler for a year and a half to bring him on board. Our hard work has finally paid off and I couldn't be more excited to have him work with my team. Check out his Bio below to get to know him a bit better.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+From a young age, Dr. Skyler Alvord has made it his mission to have a positive impact on those he comes in contact with. This passion for reaching people continued with his decision to pursue a degree in psychology at Point Loma Nazarene University in San Diego, CA. Dr. Skyler focused on sports psychology, studying under one of the top sports psychologists in California. As he completed this degree, he encountered a soccer injury leaving him unable to lead his active lifestyle. 
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+It was at this time that he discovered the wonders of chiropractic. Dr. Skyler was captivated by this form of healthcare as it not only took away his pain but also improved his body’s overall function as he began experiencing less allergy and asthma symptoms. This improvement was due to the decrease in interference in his nervous system and improved function of his immune system.
 
-## What the updates mean to you
+Dr. Skyler received his Doctor of Chiropractic degree from Southern California University of Health Sciences.  Upon graduation, Dr. Skyler joined an office in Denver, Colorado. He has sought to reach people of all cultures, from the local homeless shelter, to international trips to El Salvador and the Dominican Republic. Missing the California weather, he relocated to San Clemente to pursue his passion for promoting wellness and excellence in human performance through chiropractic.
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+**Dr. Skyler will be in the office Wednesday and Friday when we were previously closed, as well as Tuesday and Sat. His hours will be similar to mine.**
