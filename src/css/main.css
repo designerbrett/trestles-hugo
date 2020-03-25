@@ -362,6 +362,9 @@ img {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c44b473c',endColorstr='#00000000',GradientType=1);
     content: '';
 }
+.mySlides .text {
+    text-align: left;
+}
 /* Slideshow container */
 .slideshow-container {
   position: relative;
