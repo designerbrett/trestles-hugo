@@ -603,6 +603,12 @@ img {
     }
 }
 
+.breadcrumbs li {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 8px;
+}
+
 .post-row {
     margin-bottom: 24px;
 }
