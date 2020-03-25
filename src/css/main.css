@@ -618,6 +618,9 @@ img {
     width: 24%;
     margin-right: 2%
 }
+.Home .blog-title h2 {
+    margin-bottom: 24px;
+}
 .Home .homepage-posts {
     display: inline-block;
     vertical-align: top;
