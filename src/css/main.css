@@ -615,6 +615,9 @@ img {
     vertical-align: top;
     width: 24%;
 }
+.Home .blog-title {
+    margin-left: 0;
+}
 .Home .post-row .post-image {
     display: block;
     width: 100%;
