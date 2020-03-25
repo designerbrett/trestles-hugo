@@ -604,7 +604,6 @@ img {
     display: block;
 }
 .post-row img {
-    float: left;
     margin-right: 40px;
     width: 30%;
 }
