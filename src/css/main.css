@@ -43,6 +43,9 @@ body {
 p {
     margin: 0 0 1.2em;
 }
+strong {
+    font-weight: bold;
+}
 h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
 }
@@ -618,12 +621,18 @@ img {
     vertical-align: top;
 }
 .post-row .post-image img {
-    width: 100%;
+    max-width: 100%;
 }
 .post-row .post-list-content {
     width: 68%;
     display: inline-block;
     vertical-align: top;
+}
+
+.blog-post .main-image img {
+    max-width: 400px;
+    float: left;
+    margin: 0 16px 16px 0;
 }
 
 footer {
