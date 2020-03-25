@@ -602,10 +602,22 @@ img {
 
 .post-row a {
     display: block;
+    list-style: none;
+    color: #333;
 }
-.post-row img {
-    margin-right: 40px;
+.post-row h2 {
+    margin-bottom: 16px;
+}
+.post-row .post-image {
+    margin-right: 3%;
     width: 30%;
+    display: inline-block;
+    vertical-align: top;
+}
+.post-row .post-list-content {
+    width: 74%;
+    display: inline-block;
+    vertical-align: top;
 }
 
 footer {
