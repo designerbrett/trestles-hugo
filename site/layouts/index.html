@@ -114,7 +114,13 @@
 </div>
 
 <div class="container">
-    
+    <ul>
+      {{ range (.Paginator 4).Posts.ByPublishDate.Reverse }}
+          <div class="post-row">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
 </div>
 
 {{ end }}
