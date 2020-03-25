@@ -4,10 +4,10 @@
 
 <h1>Blog</h1>
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+<div class="main">
+  <ul>
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
+          <div class="post-row">
             {{ .Render "li"}}
           </div>
       {{ end }}
