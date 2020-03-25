@@ -600,6 +600,14 @@ img {
     }
 }
 
+.Posts a {
+    display: block;
+}
+.Posts img {
+    float: left;
+    margin-right: 40px;
+}
+
 footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
