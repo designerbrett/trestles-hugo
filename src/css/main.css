@@ -609,21 +609,24 @@ img {
     margin-right: 8px;
 }
 
+.homepage-blog {
+    padding: 80px 0;
+}
 .Home .blog-title {
     display: inline-block;
     vertical-align: top;
     width: 24%;
-    margin-right: 3%
+    margin-right: 2%
 }
 .Home .homepage-posts {
     display: inline-block;
     vertical-align: top;
-    width: 72%;
+    width: 73%;
 }
 .Home .post-row {
     display: inline-block;
     vertical-align: top;
-    width: 33%;
+    width: 31%;
     margin-left: 2%;
 }
 .Home .post-row:nth-child(1) {
@@ -635,6 +638,7 @@ img {
 .Home .post-row .post-image {
     display: block;
     width: 100%;
+    max-height: 180px;
 }
 .Home .post-row h2 {
     font-size: 20px;
@@ -642,6 +646,9 @@ img {
 }
 .Home .post-row .post-date {
     display: none;
+}
+.Home .post-row .post-list-content {
+    width: 100%;
 }
 
 .post-row {
