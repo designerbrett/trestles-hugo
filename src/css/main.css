@@ -241,6 +241,10 @@ nav li a.active {
     text-decoration: none;
     color: #333;
 }
+.info ul {
+    padding: 0;
+    margin-bottom: 0;
+}
 .info li {
     display: inline-block;
     vertical-align: top;
@@ -589,11 +593,13 @@ img {
     display: inline-block;
     vertical-align: top;
     width: 67%;
+    margin-left: 2%;
 }
 @media only screen and (max-width: 800px) {
     .sidebar,
     .main-with-sidebar{
         width: 100%;
+        margin: 0;
     }
     .sidebar .sidebar-left,
     .sidebar .sidebar-right {
@@ -627,6 +633,8 @@ img {
     display: inline-block;
     vertical-align: top;
     width: 73%;
+    margin: 0;
+    padding: 0;
 }
 .Home .post-row {
     display: inline-block;
@@ -655,7 +663,10 @@ img {
 .Home .post-row .post-list-content {
     width: 100%;
 }
-
+.Posts .main ul {
+    margin: 0;
+    padding: 0;
+}
 .post-row {
     margin-bottom: 24px;
 }
@@ -703,6 +714,11 @@ footer .columns.four {
 }
 footer .columns.four.last {
     margin: 0;
+}
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 }
 footer a {
     text-decoration: none;
