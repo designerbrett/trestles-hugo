@@ -3,13 +3,13 @@
 <div class="list-nav">
     {{ if .Paginator.HasNext }}
     <a class="pager-next" title="Next Page" href="{{ .Paginator.Next.URL }}">
-        Next &larr;
+        Next &rarr;
     </a>
     {{ end }}
     <div class="pagination">
         {{ if .Paginator.HasPrev }}
         <a class="pager-prev" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
-            &rarr; Previous
+            &larr; Previous
         </a>
         {{ end }}
     </div>
