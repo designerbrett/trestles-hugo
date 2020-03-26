@@ -6,7 +6,7 @@
 
 <div class="main">
   <ul>
-      {{ range.Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
           <div class="post-row">
             {{ .Render "li"}}
           </div>
