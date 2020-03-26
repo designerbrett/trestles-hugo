@@ -734,6 +734,21 @@ img {
     }
 }
 
+.list-nav {
+    margin-bottom: 24px;
+    text-align: center;
+}
+.list-nav a {
+    background: #f1f1f1;
+    padding: 8px 16px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.list-nav a:hover {
+    background: #9458a1;
+    color: #FFF;
+}
+
 footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
