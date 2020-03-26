@@ -5,6 +5,7 @@ description: >-
   This Tuesday July11th I will be showing off some really great techniques for
   utilizing kinesiology tape for sports injuries, rehab, and postural support.
 image: img/foundation-tacos-flyer_itok-7de2eyoa.png
+tags: ["San Clemente Chiropractor", "Sports Medicine", "Kinesioloy tape", "Chiropractic rehab", "foundation fitness", "foundation SC"]
 ---
 This Tuesday July11th I will be showing off some really great techniques for utilizing kinesiology tape for sports injuries, rehab, and postural support. And in honor of Taco Tuesday there will be Free tacos for those in attendance! This is a casual event where I will have some short demonstrations, followed by open Q&A to show you specific applications for using Kinesio tape on different injuries or for general use. There will be a demo class at 7PM. Food will be provided and served at 6:45PM. The event will be hosted at Foundation Fitness in San Clemente.
 

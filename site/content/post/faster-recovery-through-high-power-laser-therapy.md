@@ -5,6 +5,7 @@ description: >-
   I would like to introduce you to the newest service offered at Trestles
   Chiropractic in the form of High Power Laser Therapy.
 image: img/pinnacle-front-view_itok-tzmhw6tu.jpg
+tags: ["Laser Pain relief", "Cold Laser Therapy", "Class IV laser therapy", "Claass 4 Laser", "Orange County Laser therapy", "Class III laser", "K Laser", "Aspen Laser", "Diowave Laser", "High Power laser therapy", "30W laser therapy", "Pain management"]
 ---
 ![Upper back laser treatment.](img/back-laser_itok-sb4db_sw.jpg "Upper back laser treatment.")
 
