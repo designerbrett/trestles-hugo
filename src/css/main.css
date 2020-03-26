@@ -285,6 +285,10 @@ li.hours-block:before {
     text-align: center;
     font-size: 16px;
 }
+.sticky-contact ul {
+    margin: 0;
+    padding: 0;
+}
 .sticky-contact li {
     list-style: none;
     display: inline-block;
@@ -498,6 +502,7 @@ img {
     .mySlides a.button {
         background: #FFF;
         color: #9458a1;
+        text-shadow: none;
     }
 }
 
@@ -663,10 +668,18 @@ img {
 .Home .post-row .post-list-content {
     width: 100%;
 }
-.Posts .main ul {
-    margin: 0;
-    padding: 0;
+@media only screen and (max-width: 600px) {
+    .Home .blog-title,
+    .Home .homepage-posts{
+        width: 100%;
+        margin: 0;
+    }
+    .Home .post-row {
+        width: 100%;
+        margin: 0;
+    }
 }
+
 .post-row {
     margin-bottom: 24px;
 }
@@ -693,6 +706,10 @@ img {
     width: 66%;
     display: inline-block;
     vertical-align: top;
+}
+.Posts .main ul {
+    margin: 0;
+    padding: 0;
 }
 
 .blog-post img.main-image {
