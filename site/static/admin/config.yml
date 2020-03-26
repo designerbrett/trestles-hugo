@@ -45,6 +45,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "schedule-complimentary-consultation"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Text, name: text, widget: text}
+          - {label: Body, name: body, widget: markdown}
     
 
