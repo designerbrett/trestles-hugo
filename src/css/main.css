@@ -155,6 +155,10 @@ nav {
   z-index: 5;
   box-shadow: 0px 0px 10px rgba(0,0,0,0.25);
 }
+nav ul {
+    margin: 0;
+    padding: 0;
+}
 nav img {
   float: left;
 }
@@ -668,7 +672,7 @@ img {
 .Home .post-row .post-list-content {
     width: 100%;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 850px) {
     .Home .blog-title,
     .Home .homepage-posts{
         width: 100%;
