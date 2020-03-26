@@ -1,12 +1,8 @@
 ---
-title: What is a Structural Shift?
+title: 10 Questions You Should Ask Before Visiting a Chiropractor
 ---
-In healthcare, there are established normal values for many things. There’s a standard for normal blood pressure, normal cholesterol, and normal vision. It doesn’t mean that we expect everyone to have a PERFECT measure, but there are healthy ranges for people depending on their age and situation.
+Here is a list of common questions I am asked by new and perspective patients. I hope this is a help to you. Even if I am not the Chiropractor you chose to visit, these are questions you should have answered by the chiropractor you chose to see. I am also available to answer any other questions you might have during a free consultation.
 
-Could your problems be the result of a Structural Shift?
+Click the button below or right click and save link as to get your copy of the ebook
 
-At Trestles Chiropractic, we are looking for a significant *structural shift away from NORMAL that affects your overall function*. These shifts initially cause muscle spasms because your foundation (the spine, which carries all the messages from the brain to the body) is no longer stable and strong. Left uncorrected, the ligaments eventually deform, and finally they disrupt the NERVES traveling down the spinal cord.
-
-This entire process is called **degeneration or spinal arthritis**, and is the direct result of wear and tear. It’s similar to having one under-inflated tire on your car; at first it’s not a big deal, but over time if you don’t fix it, the axle wears out faster than it should and eventually things start to fall apart.
-
-At Trestles Chiropractic, we’re experts at Structural Correction. Using detailed analysis, we get to the heart of your problem to give you noticeable results, both in how you feel and how you function.
+<a class="button" href="/files/Questions-to-have-answered-prior-to-visiting-a-Chiropractor.pdf">Click to Download the eBook</a>
