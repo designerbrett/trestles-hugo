@@ -616,7 +616,10 @@ img {
         margin: 0;   
     }
 }
-
+.breadcrumbs ol {
+    margin: 0;
+    padding: 0;
+}
 .breadcrumbs li {
     display: inline-block;
     vertical-align: top;
@@ -724,6 +727,11 @@ img {
     max-width: 400px;
     float: left;
     margin: 0 16px 16px 0;
+}
+@media only screen and (max-width: 500px) {
+    .blog-post img.main-image {
+        max-width: 100%;
+    }
 }
 
 footer {
