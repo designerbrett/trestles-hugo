@@ -14,13 +14,13 @@
     {{ if .Params.image }}<img class="main-image" src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
 
     <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+
+    {{ .Content }}
       
-    <ul>
+      <ul>
         {{ range (.GetTerms "tags") }}
             <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
        {{ end }}
     </ul>
-
-    {{ .Content }}
   </div>
 {{ end }}
