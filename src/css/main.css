@@ -362,6 +362,7 @@ li.hours-block:before {
 }
 img {
     vertical-align: middle;
+    max-width: 100%;
 }
 .mySlides:before {
     position: absolute;

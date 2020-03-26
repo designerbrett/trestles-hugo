@@ -52,5 +52,23 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/what-are-secondary-conditions/_index.md"
+        label: "What are Secondary Conditions Page"
+        name: "what-are-secondary-conditions"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}   
+      - file: "site/content/other-treatment-options/_index.md"
+        label: "Other Treatment Options Page"
+        name: "other-treatment-options"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}      
+      - file: "site/content/what-structural-shift/_index.md"
+        label: "What is Structural Shift Page"
+        name: "what-structural-shift"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
     
 
