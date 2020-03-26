@@ -14,6 +14,18 @@
   </ul>
   {{ partial "pagination" . }}
 </div>
+    
+<div class="main">
+  <ul>
+      {{ $paginator := .Paginate (where .Pages "Type" "posts") 5 }}
+          <div class="post-row">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+</div>
+    
+    
 
 </div>
 
