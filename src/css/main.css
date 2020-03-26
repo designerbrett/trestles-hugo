@@ -679,6 +679,9 @@ img {
         width: 100%;
         margin: 0;
     }
+    .Home .blog-title {
+        margin-bottom: 24px;
+    }
     .Home .post-row {
         width: 100%;
         margin: 0;
