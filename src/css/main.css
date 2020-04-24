@@ -738,6 +738,8 @@ img {
 .list-nav {
     margin-bottom: 24px;
     text-align: center;
+    display: inline-block;
+    width: 100%;
 }
 .list-nav a {
     background: #f1f1f1;
@@ -753,6 +755,7 @@ img {
 footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
+  clear: both;
 }
 footer .container {
     padding: 50px 0;
