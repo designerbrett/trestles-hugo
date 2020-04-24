@@ -7,9 +7,9 @@
 <div class="main">
   <ul>
       {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
-          <div class="post-row">
+          <li class="post-row">
             {{ .Render "li"}}
-          </div>
+          </li>
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
