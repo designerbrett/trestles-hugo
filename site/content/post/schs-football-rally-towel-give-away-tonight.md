@@ -1,6 +1,6 @@
 ---
 title: SCHS Football Rally Towel Give-away Tonight!
-date: 2020-03-31T21:45:22.077Z
+date: 2015-03-31T21:45:00.000Z
 tags: >-
   List [ "San Clemente high school football" "triton football" "San Clemente
   Chiropractor" "chiropractor san clemente" "San Clemente Chiropractic" "sports
