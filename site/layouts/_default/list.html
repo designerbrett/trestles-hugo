@@ -2,11 +2,11 @@
 
 <div class="container">
 
-<h1>Blog</h1>
+<h1>Health Tips</h1>
 
 <div class="main">
   <ul>
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
           <div class="post-row">
             {{ .Render "li"}}
           </div>
