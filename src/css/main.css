@@ -765,6 +765,22 @@ img {
     color: #FFF;
 }
 
+.tags-display li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 8px;
+}
+.tags-display li a {
+    background: #f1f1f1;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 50%;
+}
+.tags-display li a:hover {
+    background: #CCC;
+}
+
 footer {
   color: #FFF;
   background: #686F77 url(/img/footer-bg.png) center bottom;
