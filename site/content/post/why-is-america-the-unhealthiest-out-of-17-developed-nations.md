@@ -4,7 +4,7 @@ date: 2014-03-04T07:01:00.000Z
 tags: >-
   List [ "america Unhealthiest" "chiropractor san clemente" "USA death
   statistics" "San Clemente Chiropractic" "USA maternal complication statistics"
-  "Trestles Chiropractic" "obamacare chiropractic" "chiropractor 92672" "Fast
+ "chiropractor 92672" "Fast
   Food dead end" "chiropractor 92673" "Healthy People 2020" "orange county
   chiropractor" ]
 description: >-
