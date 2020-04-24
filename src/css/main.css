@@ -692,13 +692,18 @@ img {
 }
 
 .post-row {
-    margin-bottom: 24px;
+    margin-bottom: 32px;
     list-style: none;
+    border-bottom: 2px solid #CCC;
+    padding-bottom: 32px;
 }
 .post-row a {
     display: block;
     list-style: none;
     color: #333;
+}
+.post-row:hover a {
+    color: #087ea3;
 }
 .post-row h2 {
     margin-bottom: 16px;
