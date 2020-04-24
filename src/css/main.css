@@ -696,6 +696,9 @@ img {
     list-style: none;
     border-bottom: 2px solid #CCC;
     padding-bottom: 32px;
+    clear: both;
+    display: inline-block;
+    width: 100%;
 }
 .post-row a {
     display: block;
@@ -710,11 +713,10 @@ img {
 }
 .post-row .post-image {
     margin-right: 3%;
-    width: 30%;
-    display: inline-block;
-    vertical-align: top;
+    width: 31%;
     max-height: 230px;
     overflow: hidden;
+    float: left;
 }
 .post-row .post-image img {
     max-width: 100%;
@@ -751,6 +753,12 @@ img {
     padding: 8px 16px;
     border-radius: 50px;
     text-decoration: none;
+}
+.list-nav a.pager-next {
+    float: right;
+}
+.list-nav a.pager-prev {
+    float: left;
 }
 .list-nav a:hover {
     background: #9458a1;
