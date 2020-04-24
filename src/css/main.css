@@ -693,6 +693,7 @@ img {
 
 .post-row {
     margin-bottom: 24px;
+    list-style: none;
 }
 .post-row a {
     display: block;
