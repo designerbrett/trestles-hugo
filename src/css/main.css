@@ -765,19 +765,19 @@ img {
     color: #FFF;
 }
 
-.tags-display li {
+.tag-display li {
     list-style: none;
     display: inline-block;
     vertical-align: top;
     margin-right: 8px;
 }
-.tags-display li a {
+.tag-display li a {
     background: #f1f1f1;
     text-decoration: none;
     padding: 8px;
     border-radius: 50%;
 }
-.tags-display li a:hover {
+.tag-display li a:hover {
     background: #CCC;
 }
 
