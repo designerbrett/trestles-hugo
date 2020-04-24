@@ -2,4 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
 {{ .Content }}
-{{ if .Params.tags }}
+
+<div class="tags-display">
+    {{ if .Params.tags }}
+</div>
