@@ -764,7 +764,11 @@ img {
     background: #9458a1;
     color: #FFF;
 }
-
+.tag-display {
+    padding: 24px 0 0;
+    margin-top: 24px;
+    border-top: 2px solid #CCC;
+}
 .tag-display li {
     list-style: none;
     display: inline-block;
@@ -775,10 +779,10 @@ img {
     background: #f1f1f1;
     text-decoration: none;
     padding: 8px;
-    border-radius: 50%;
+    border-radius: 50px;
 }
 .tag-display li a:hover {
-    background: #CCC;
+    background: #f3f3f3;
 }
 
 footer {
