@@ -1,9 +1,9 @@
 ---
 title: Should I get a massage before or after my adjustment?
 date: 2014-03-11T06:26:00.000Z
-tags: ["massage" "chiropractic massage" "motor vehicle accident" "posture"
-  "San Clemente Chiropractor" "chiropractor san clemente" "San Clemente
-  Chiropractic" "chiropractor 92672"]
+tags: ["massage", "chiropractic massage", "motor vehicle accident", "posture",
+  "San Clemente Chiropractor", "chiropractor san clemente", "San Clemente
+  Chiropractic", "chiropractor 92672"]
 description: >-
   Another common question I am asked by new patients in my office is; whether or
   not they should get a massage with their adjustment and if so, should it be

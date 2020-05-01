@@ -1,8 +1,8 @@
 ---
 title: Is it true that Chiropractic adjustments hurt?
 date: 2014-03-04T07:28:00.000Z
-tags: ["San Clemente Chiropractic" "back pain" "San Clemente Chiropractor"
-  "neck pain" "chiropractor san clemente" "chiropractor 92672" "lactic acid"
+tags: ["San Clemente Chiropractic", "back pain", "San Clemente Chiropractor",
+  "neck pain", "chiropractor san clemente", "chiropractor 92672", "lactic acid",
   "gentle chiropractic"]
 description: >-
   This is another common question that I am asked in my San Clemente

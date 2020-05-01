@@ -1,9 +1,9 @@
 ---
 title: FSA and HSA. What to do with left over funds?
 date: 2013-12-03T07:50:00.000Z
-tags: ["HSA" "FSA" "use it or lose it" "Trestles Chiropractic" "San Clemente
-  Chiropractor" "chiropractor san clemente" "san clemente chiropractic" "toys
-  for tots" "chiropractor 92672"]
+tags: ["HSA", "FSA", "use it or lose it", "Trestles Chiropractic", "San Clemente
+  Chiropractor", "chiropractor san clemente", "san clemente chiropractic", "toys
+  for tots", "chiropractor 92672"]
 description: >-
   ‘Tis the season not only for gift giving, good food and family, but for Health
   plans to renew. Most plans and accounts reset on Jan 1st. Some are counting

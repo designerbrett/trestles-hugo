@@ -1,8 +1,8 @@
 ---
 title: The Best Chiropractor in San Clemente?
 date: 2013-07-29T17:04:00.000Z
-tags: ["Best Chiropractor in San Clemente" "Trestles Chiropractic" "Better
-  Business" "San Clemente Chiropractic" "San Clemente Chiropractor"]
+tags: ["Best Chiropractor in San Clemente", "Trestles Chiropractic", "Better
+  Business", "San Clemente Chiropractic", "San Clemente Chiropractor"]
 description: >-
   I usually spend a little bit of time checking on my SEO in the mornings before
   the day gets busy with patients. Today I came across something I found

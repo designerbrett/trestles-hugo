@@ -1,8 +1,8 @@
 ---
 title: Protect your right to Informed Consent
 date: 2020-07-31T21:54:00.000Z
-tags: ["SB 277" "no on sb 277" "sb277" "informed consent" "vaccinations"
-  vaccines" "vaxx" "chiropractor san clemente" "San Clemente Chiropractor" "San
+tags: ["SB 277", "no on sb 277", "sb277", "informed consent", "vaccinations",
+  vaccines", "vaxx", "chiropractor san clemente", "San Clemente Chiropractor", "San
   Clemente Chiropractic"]
 description: >-
   Senate Bill 277 is not just a bill which would remove Personal belief

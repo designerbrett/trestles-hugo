@@ -1,8 +1,8 @@
 ---
 title: Don’t give up on your colicky baby
 date: 2013-10-21T07:04:00.000Z
-tags: ["infant colic" "San Clemente Chiropractor" "baby colic" "chiropractor
-  san clemente" "pediatric chiropractic" "infantile colic" "San Clemente
+tags: ["infant colic", "San Clemente Chiropractor", "baby colic", "chiropractor
+  san clemente", "pediatric chiropractic", "infantile colic", "San Clemente
   Chiropractic"]
 description: >-
   If you were to walk into a coffee shop on any given morning and ask for a

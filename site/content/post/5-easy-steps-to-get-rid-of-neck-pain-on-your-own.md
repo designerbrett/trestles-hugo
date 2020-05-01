@@ -1,9 +1,9 @@
 ---
 title: 5 easy steps to get rid of neck pain on your own.
 date: 2014-01-14T07:28:00.000Z
-tags: ["5 steps to fix neck pain" "neck stretches" "San Clemente Chiropractic"
-  "neck traction trestles chiropractic" "neck support" "chiropractor san
-  clemente" "drink water" "chiropractor 92672" "dont sleep on your stomach"]
+tags: ["5 steps to fix neck pain", "neck stretches", "San Clemente Chiropractic",
+  "neck traction trestles chiropractic", "neck support", "chiropractor san
+  clemente", "drink water", "chiropractor 92672", "dont sleep on your stomach"]
 description: >-
   I often have patients ask me “What can I do at home or at work to get rid of
   my neck pain on the days I am unable to come in to get adjusted?” As a

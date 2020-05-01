@@ -1,9 +1,9 @@
 ---
 title: Getting your life back after an injury.
 date: 2014-01-21T07:28:00.000Z
-tags: ["back pain" "San Clemente Chiropractic" "Wellness" "San Clemente
-  Chiropractor" "elderly" "chiropractor san clemente" "Healing" "healing from
-  within" "chiropractor 92672" "complementary consultation"]
+tags: ["back pain", "San Clemente Chiropractic", "Wellness", "San Clemente
+  Chiropractor", "elderly", "chiropractor san clemente", "Healing", "healing from
+  within", "chiropractor 92672", "complementary consultation"]
 description: >-
   This morning I found a note on my desk from the other Chiropractor I work
   with. One of his patients is the son-in-law of an elderly patient that I have

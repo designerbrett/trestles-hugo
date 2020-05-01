@@ -1,7 +1,7 @@
 ---
 title: Back By Popular Demand. More Rally Towels!!
 date: 2014-09-10T22:25:00.000Z
-tags: ["San Clemente High school" "triton football" "rally towels"
+tags: ["San Clemente High school", "triton football", "rally towels",
   "chiropractor san clemente"]
 description: >-
   We have received phone calls and other requests for our “Go Tritons” rally

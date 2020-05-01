@@ -1,7 +1,7 @@
 ---
 title: Stress affects your Quality of Life.
 date: 2013-07-15T17:08:00.000Z
-tags: ["Stress" "San Clemente Chiropractic" "chiropractor san clemente" "Lunch
+tags: ["Stress", "San Clemente Chiropractic", "chiropractor san clemente", "Lunch
   and learn"]
 description: >-
   As a Doctor of Chiropractic I have had the opportunity on numerous occasions

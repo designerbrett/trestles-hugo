@@ -1,8 +1,8 @@
 ---
 title: Why it’s healthier to watch a comedy rather than a drama
 date: 2014-05-19T22:41:00.000Z
-tags: ["structural correction" "chiropractor 92672" "family" "San Clemente
-  Chiropractic" "Stress" "San Clemente Chiropractor" "laughing" "chiropractor
+tags: ["structural correction", "chiropractor 92672", "family", "San Clemente
+  Chiropractic", "Stress", "San Clemente Chiropractor", "laughing", "chiropractor
   san clemente"]
 description: >-
   To this day the leading cause of death in the U.S. is Heart Disease. The

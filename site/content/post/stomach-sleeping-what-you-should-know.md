@@ -1,9 +1,9 @@
 ---
 title: 'Stomach sleeping, what you should know.'
 date: 2014-05-05T22:47:00.000Z
-tags: ["proper sleep position" "San Clemente Chiropractor" "sleeping on
-  stomach" "chiropractor san clemente" "stomach sleeper" "Structural
-  chiropractor san clemente" "San Clemente Chiropractic"]
+tags: ["proper sleep position", "San Clemente Chiropractor", "sleeping on
+  stomach", "chiropractor san clemente", "stomach sleeper", "Structural
+  chiropractor san clemente", "San Clemente Chiropractic"]
 description: >-
   Sleep position is a question that is often met with frustration when I suggest
   to an individual that sleeping on their stomach is part of the reason they are

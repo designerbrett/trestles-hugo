@@ -1,8 +1,8 @@
 ---
 title: What can I do about this hump on my neck?
 date: 2014-04-14T23:05:00.000Z
-tags: ["Dowager's hump" "chiropractor san clemente" "anterior head syndrome"
-  "chiropractor 92672" "structural chiropractic in san clemente" "hunch back"
+tags: ["Dowager's hump", "chiropractor san clemente", "anterior head syndrome",
+  "chiropractor 92672", "structural chiropractic in san clemente", "hunch back",
   "San Clemente Chiropractic"]
 description: >-
   Often patients come to me with concerns about their posture. They are

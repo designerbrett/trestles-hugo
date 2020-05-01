@@ -1,9 +1,9 @@
 ---
 title: A proven way to cut Medical expenses.
 date: 2013-12-10T07:47:00.000Z
-tags: ["Cut health care cost" "San Clemente Chiropractic" "cut medical
-  expenses" "San Clemente Chiropractor" "Toys for tots" "chiropractor 92672"
-  "higher level of health" "chiropractor san clemente"]
+tags: ["Cut health care cost", "San Clemente Chiropractic", "cut medical
+  expenses", "San Clemente Chiropractor", "Toys for tots", "chiropractor 92672",
+  "higher level of health", "chiropractor san clemente"]
 description: >-
   I recently posted an article I came across on the popular WebMD site talking
   about how chiropractic care can reduce the cost of medical expenses from

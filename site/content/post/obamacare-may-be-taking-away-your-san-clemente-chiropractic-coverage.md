@@ -1,8 +1,8 @@
 ---
 title: Obamacare may be taking away your San Clemente Chiropractic coverage
 date: 2013-09-03T16:52:00.000Z
-tags: ["chiropractor san clemente" "San Clemente Chiropractic" "San Clemente
-  Chiropractor" "Obamacare"]
+tags: ["chiropractor san clemente", "San Clemente Chiropractic", "San Clemente
+  Chiropractor", "Obamacare"]
 description: >-
   It has been a very difficult time for many physicians over the years as the
   insurance game has grown more and more restrictive and competitive. However,

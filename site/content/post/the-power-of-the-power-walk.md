@@ -1,8 +1,8 @@
 ---
 title: The Power of the Power Walk!
 date: 2013-07-07T17:12:00.000Z
-tags: ["Running san clemente" "san clemente fitness" "chiropractor san
-  clemente" "San Clemente Chiropractor"]
+tags: ["Running san clemente", "san clemente fitness", "chiropractor san
+  clemente", "San Clemente Chiropractor"]
 description: >-
   I recently discovered that I had gained a few unwanted pounds over the course
   of the last year. This came to my attention when I was attempting to fit into

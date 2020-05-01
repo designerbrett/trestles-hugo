@@ -1,7 +1,7 @@
 ---
 title: Towel Give-away night at San Clemente H.S. Aug 29th
 date: 2014-08-22T22:27:00.000Z
-tags: ["San Clemente High school" "triton football" "rally towels"
+tags: ["San Clemente High school", "triton football", "rally towels",
   "chiropractor san clemente"]
 description: >-
   Start off the season with a special gift as we watch the 2014 Tritons take on

@@ -1,9 +1,9 @@
 ---
 title: Why would my child need to get an adjustment?
 date: 2014-03-24T23:17:00.000Z
-tags: ["Surf groms" "Structural chiropractor san clemente" "car parts" "san
-  clemente structural chiropractic" "High school swimming" "chiropractor 92672"
-  "desk chair" "San Clemente Chiropractor" "scoliosis" "chiropractor 92673"
+tags: ["Surf groms", "Structural chiropractor san clemente", "car parts", "san
+  clemente structural chiropractic", "High school swimming", "chiropractor 92672",
+  "desk chair", "San Clemente Chiropractor", "scoliosis", "chiropractor 92673",
   "Family chiropractor san clemente"]
 description: >-
   I remember taking a biochemistry course in college where the professor pounded

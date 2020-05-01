@@ -1,9 +1,9 @@
 ---
 title: Is this the Year to Outrun the Treadmill of life?
 date: 2013-12-31T07:38:00.000Z
-tags: ["reach goals" "San Clemente Chiropractor" "new years resolution"
-  "chiropractor san clemente" "overcome obstacles" "chiropractor 92672" "back
-  pain" "neck pain" "headaches" "overweight" "exercise"]
+tags: ["reach goals", "San Clemente Chiropractor", "new years resolution",
+  "chiropractor san clemente", "overcome obstacles", "chiropractor 92672", "back
+  pain", "neck pain", "headaches", "overweight", "exercise"]
 description: >-
   What a year 2013 has been! As I reflect on the past events of 2013 it seems a
   daunting task to surpass the accomplishments of the year. However, setting

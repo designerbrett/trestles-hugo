@@ -1,8 +1,8 @@
 ---
 title: Is it bad if I pop my knuckles or my neck and back?
 date: 2014-01-28T07:28:00.000Z
-tags: ["San Clemente Chiropractic" "cracking knuckles" "cracking your neck"
-  "San Clemente Chiropractor" "popping fingers" "chiropractor san clemente"]
+tags: ["San Clemente Chiropractic", "cracking knuckles", "cracking your neck",
+  "San Clemente Chiropractor", "popping fingers", "chiropractor san clemente"]
 description: >-
   This is a question I am frequently asked by people of all age groups. I think
   partially it comes from the misconception that popping your fingers will give

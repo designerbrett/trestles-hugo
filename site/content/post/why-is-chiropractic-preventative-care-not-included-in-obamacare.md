@@ -1,8 +1,8 @@
 ---
 title: Why is Chiropractic preventative care not included in Obamacare?
 date: 2013-10-28T07:02:00.000Z
-tags: ["Preventative obamacare" "San Clemente Chiropractor" "obamacare
-  chiropractic" "chiropractor san clemente" "obamacare and chiropractic"
+tags: ["Preventative obamacare", "San Clemente Chiropractor", "obamacare
+  chiropractic", "chiropractor san clemente", "obamacare and chiropractic",
   "obamacare preventative"]
 description: >-
   Last week I posted a picture of a woman getting an ultrasound. This meme is

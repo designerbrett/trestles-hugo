@@ -1,9 +1,9 @@
 ---
 title: Is your mattress the reason you are waking up in pain?
 date: 2014-03-17T23:20:00.000Z
-tags: ["pain from sleeping" "San Clemente Chiropractor" "old mattress"
-  "chiropractor san clemente" "dust mites" "San Clemente Chiropractic" "back
-  pain" "chiropractor 92672" "memory foam" "chiropractor 92673"]
+tags: ["pain from sleeping", "San Clemente Chiropractor", "old mattress",
+  "chiropractor san clemente", "dust mites", "San Clemente Chiropractic", "back
+  pain", "chiropractor 92672", "memory foam", "chiropractor 92673"]
 description: >-
   Often a patient will describe their experience with discomfort as, “I think I
   slept wrong.” Sometimes we neglect just how important a good night’s rest is.

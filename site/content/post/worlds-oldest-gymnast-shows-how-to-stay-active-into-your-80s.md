@@ -1,9 +1,9 @@
 ---
 title: Worlds oldest Gymnast shows how to stay active into your 80's
 date: 2013-10-14T07:06:00.000Z
-tags: ["Worlds oldest gymnast" "chiropractor san clemente" "86 year old
-  gymnast" "San Clemente Chiropractic" "San Clemente Chiropractor" "joint pain"
-  "Chondroitin sulfate" "glucosamine"]
+tags: ["Worlds oldest gymnast", "chiropractor san clemente", "86 year old
+  gymnast", "San Clemente Chiropractic", "San Clemente Chiropractor", "joint pain",
+  "Chondroitin sulfate", "glucosamine"]
 description: >-
   As we look at the growing population of senior citizens more focus is placed
   on what is to be done to manage their health rather than to improve it. A

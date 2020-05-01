@@ -1,8 +1,8 @@
 ---
 title: Free San Clemente Community Health Class
 date: 2015-01-27T23:08:00.000Z
-tags: ["San Clemente Chiropractic" "chiropractor san clemente" "wellness
-  class" "san clemente health class" "San Clemente Chiropractor"]
+tags: ["San Clemente Chiropractic", "chiropractor san clemente", "wellness
+  class", "san clemente health class", "San Clemente Chiropractor"]
 description: >-
   A Healthier New Year Class: Thursday Jan 29th 7:30-8:30pm at Trestles
   Chiropractic.   Free Community Health class where attendees will get

@@ -1,7 +1,7 @@
 ---
 title: Are You Choosing Death By H2O?
 date: 2013-08-12T17:00:00.000Z
-tags: ["Dehydration" "San Clemente Chiropractor" "San Clemente Chiropractic"
+tags: ["Dehydration", "San Clemente Chiropractor", "San Clemente Chiropractic",
   "chiropractor san clemente"]
 description: >-
   Have you ever gotten to the end of the work day only to find that you have a

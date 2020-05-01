@@ -3,8 +3,8 @@ title: >-
   A Prescription for Positivity: Trestles Chiropractic is Thankful for Health
   pt.1
 date: 2013-11-05T07:59:00.000Z
-tags: ["positive attitude" "thankful for health" "San Clemente Chiropractor"
-  "positive mental attitude" "chiropractor san clemente" "positive psychology"
+tags: ["positive attitude", "thankful for health", "San Clemente Chiropractor",
+  "positive mental attitude", "chiropractor san clemente", "positive psychology",
   "San Clemente Chiropractic"]
 description: >-
   What would your reaction be if you received a prescription and rather than

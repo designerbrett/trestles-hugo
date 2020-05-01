@@ -1,7 +1,7 @@
 ---
 title: Why are Kids Stoked to be in San Clemente?
 date: 2013-09-16T16:47:00.000Z
-tags: ["Stoke-o-rama" "San Clemente Chiropractor" "San Clemente Chiropractic"
+tags: ["Stoke-o-rama", "San Clemente Chiropractor", "San Clemente Chiropractic",
   "chiropractor san clemente"]
 description: >-
   I had the opportunity this last weekend to go down to T-street where the

@@ -1,8 +1,8 @@
 ---
 title: DIY Flu shot alternatives
 date: 2013-09-09T16:49:00.000Z
-tags: ["Flu shot" "chiropractor san clemente" "san clemente chiropractic" "san
-  clemente chiropractor" "Sambazon"]
+tags: ["Flu shot", "chiropractor san clemente", "san clemente chiropractic", "san
+  clemente chiropractor", "Sambazon"]
 description: >-
   It’s that wonderful time of the year folks. You know, the time when you are in
   constant battle with co-workers and family members to avoid catching the flu

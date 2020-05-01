@@ -1,8 +1,8 @@
 ---
 title: Why are you letting your computer destroy you?
 date: 2013-09-23T16:45:00.000Z
-tags: ["chiropractor san clemente" "San Clemente Chiropractic" "San Clemente
-  Chiropractor" "Work ergonomics" "Wellness coach" "corporate wellness"]
+tags: ["chiropractor san clemente", "San Clemente Chiropractic", "San Clemente
+  Chiropractor", "Work ergonomics", "Wellness coach", "corporate wellness"]
 description: >-
   Whether you notice it or not, most people find themselves in one of two
   positions by the end of the work day. They are either hunched over their
