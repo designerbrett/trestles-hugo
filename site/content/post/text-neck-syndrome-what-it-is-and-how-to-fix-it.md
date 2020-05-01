@@ -1,11 +1,11 @@
 ---
 title: Text Neck Syndrome: What It Is and How to Fix It?
 date: 2018-05-01T21:31:00.000Z
+tags: ["text neck", "chiropractic", "chiropractor san clemente", "San Clemente Chiropractic", "Trestles Chiropractic", "neck pain", "back pain", "shoulder pain"]
 description: >-
   “Text Neck,” the newest buzzword you may have heard lately is affecting
   millennials across the globe.
 image: img/tresltes-chiro-and-laser_itok-6gitzp5c.png
-tags: ["text neck", "chiropractic", "chiropractor san clemente", "San Clemente Chiropractic", "Trestles Chiropractic", "neck pain", "back pain", "shoulder pain"]
 ---
 “Text Neck,” the newest buzzword you may have heard lately is affecting millennials across the globe. As tongue-in-cheek the phrase may sound, it’s an actual epidemic [caused by overuse of mobile phones](http://www.ijcim.th.org/SpecialEditions/v23nSP2/02_55A_Epidemic.pdf). Given that almost all of us are reliant on smartphones to make it through the day, it wouldn’t be wrong to conclude we may end up with this symptom if we’re not careful.
 
