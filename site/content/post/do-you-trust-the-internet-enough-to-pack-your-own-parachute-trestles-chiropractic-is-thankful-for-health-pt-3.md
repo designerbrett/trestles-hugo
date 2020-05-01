@@ -3,10 +3,9 @@ title: >-
   Do you trust the internet enough to pack your own parachute?: Trestles
   Chiropractic is Thankful for Health pt.3
 date: 2014-11-19T07:56:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractor" "Pack your own parachute" "chiropractor san
+tags: ["San Clemente Chiropractor" "Pack your own parachute" "chiropractor san
   clemente" "webmd" "San Clemente Chiropractic" "thankful for health" "internet
-  fail" ]
+  fail"]
 description: >-
   The other day I found out that you can learn how to pack a parachute online.
   With the internet you can find so much useful information on so many topics.

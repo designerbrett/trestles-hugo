@@ -1,9 +1,8 @@
 ---
 title: Free Swag at the 14th annual SC Open Skate Competition.
 date: 2014-09-26T22:22:00.000Z
-tags: >-
-  List [ "chiropractor san clemente" "sc open" "skateboard" "San Clemente
-  Chiropractor" "swag" ]
+tags: ["chiropractor san clemente" "sc open" "skateboard" "San Clemente
+  Chiropractor" "swag"]
 description: >-
   Don't miss out on the FREE SWAG at the Trestles Chiropractic Booth this
   Saturday at the SC Open. Bring the family and watch some of the best in the

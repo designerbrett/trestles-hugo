@@ -1,9 +1,8 @@
 ---
 title: Free Limited Edition 50th Anniversary SCHS shirts at Friday's Homecoming game
 date: 2014-10-09T22:14:00.000Z
-tags: >-
-  List [ "chiropractor san clemente" "San Clemente High school" "Homecoming"
-  "onetownoneteam" "San Clemente Chiropractic" "san clemente football" ]
+tags: ["chiropractor san clemente" "San Clemente High school" "Homecoming"
+  "onetownoneteam" "San Clemente Chiropractic" "san clemente football"]
 description: >-
   Well folks the 5-1 SC Tritons are gearing up for Friday night's Homecoming
   Game. If you thought the crowning of the King and Queen was enough, think

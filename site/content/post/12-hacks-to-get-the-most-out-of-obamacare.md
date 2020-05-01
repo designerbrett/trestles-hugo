@@ -1,11 +1,10 @@
 ---
 title: 12 Hacks to get the most out of Obamacare
 date: 2014-01-07T07:28:00.000Z
-tags: >-
-  List [ "healthcare hack" "San Clemente Chiropractic" "healthcare.gov" "San
+tags: ["healthcare hack" "San Clemente Chiropractic" "healthcare.gov" "San
   Clemente Chiropractor" "obesity screenings" "Dr. Ryan Anderson" "Breastfeeding
   support" "chiropractor 92673" "Vision screening" "chiropractor 92672"
-  "Chiropractic adjustment" Trestles Chiropractic" ]
+  "Chiropractic adjustment" Trestles Chiropractic"]
 description: >-
   According to the Healthcare.gov site, “Preventive care helps you stay healthy.
   A doctor isn’t someone to see only when you’re sick. Doctors also provide

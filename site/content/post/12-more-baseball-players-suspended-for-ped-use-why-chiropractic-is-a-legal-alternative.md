@@ -3,9 +3,8 @@ title: >-
   12 More Baseball Players Suspended for PED Use. Why Chiropractic is a Legal
   alternative.
 date: 2013-08-05T17:02:00.000Z
-tags: >-
-  List [ "MLB" "Performance Enhancing Drugs" "PED" "San Clemente Chiropractic"
-  "chiropractor san clemente" ]
+tags: ["MLB" "Performance Enhancing Drugs" "PED" "San Clemente Chiropractic"
+  "chiropractor san clemente"]
 description: >-
   Just today it was announced that more suspensions were given by Major League
   Baseball for use of Performance Enhancing Drugs. Most of these players have

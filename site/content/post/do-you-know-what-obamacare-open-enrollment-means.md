@@ -1,11 +1,10 @@
 ---
 title: Do you know what Obamacare open enrollment means?
 date: 2014-03-11T05:58:00.000Z
-tags: >-
-  List [ "obamacare deadline" "open enrollment" "San Clemente Chiropractor"
+tags: ["obamacare deadline" "open enrollment" "San Clemente Chiropractor"
   "chiropractor 92673" "Copious insurance solutions" "obamacare tax penalties"
   "San Clemente Chiropractic" "Obamacare" "chiropractor san clemente"
-  "Qualifying life event obamacare" "chiropractor 92672" ]
+  "Qualifying life event obamacare" "chiropractor 92672"]
 description: >-
   In the good old days of insurance things were a bit more simplified. If you
   wanted insurance and you didn’t have any prior complications you were able to

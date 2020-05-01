@@ -1,9 +1,8 @@
 ---
 title: What is Kinesiology Tape?
 date: 2013-07-11T17:10:00.000Z
-tags: >-
-  List [ "Rock tape" "Kinesiology tape" "San Clemente chiropractor yelp" "San
-  Clemente Chiropractic" "chiropractor san clemente" ]
+tags: ["Rock tape" "Kinesiology tape" "San Clemente chiropractor yelp" "San
+  Clemente Chiropractic" "chiropractor san clemente"]
 description: >-
   Since the London 2012 Olympic games many have wondered what that "funky
   colored" tape was that many athletes from many different countries were

@@ -1,10 +1,9 @@
 ---
 title: Wouldn’t it be nice to lie on your stomach while pregnant? Well you can here.
 date: 2013-12-17T07:38:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractor" "Can you lay on your stomach while
+tags: ["San Clemente Chiropractor" "Can you lay on your stomach while
   pregnant" "chiropractor san clemente" "pregnancy chiropractic" "San Clemente
-  Chiropractic" "chiropractor 92672" ]
+  Chiropractic" "chiropractor 92672"]
 description: >-
   Often I have heard pregnant patients complain of the discomfort they are
   feeling not only from the changes in their bodies but from the need to adapt

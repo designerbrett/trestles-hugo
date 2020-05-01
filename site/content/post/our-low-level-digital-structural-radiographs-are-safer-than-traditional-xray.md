@@ -1,9 +1,8 @@
 ---
 title: Our low-level Digital Structural Radiographs are safer than traditional xray.
 date: 2014-04-07T23:10:00.000Z
-tags: >-
-  List [ "digital xray san clemente" "chiropractor san clemente" "safe xray"
-  "San Clemente Chiropractic" "structural chiropractor san clemente" ]
+tags: ["digital xray san clemente" "chiropractor san clemente" "safe xray"
+  "San Clemente Chiropractic" "structural chiropractor san clemente"]
 description: >-
   Many of you know that we take Structural Radiographs at our San Clemente
   Chiropractic office. We do this to get to the source of the problem. Many

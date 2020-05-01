@@ -1,11 +1,10 @@
 ---
 title: How often should I go in for a check-up when I’m not in pain?
 date: 2014-02-25T07:04:00.000Z
-tags: >-
-  List [ "free consultation" "chiropractor 92673" "check-upcrossfit" "Trestles
+tags: ["free consultation" "chiropractor 92673" "check-upcrossfit" "Trestles
   Chiropractic" "neck pain" "San Clemente Chiropractor" "slouching" "San
   Clemente Chiropractic" "Hiking" "chiropractor san clemente" "san clemente
-  crossfit" ]
+  crossfit"]
 description: >-
   This week I am going to cut straight to the chase. No sugar coating this one.
   The answer is… At least once every: 6 months if you are a healthy, moderately

@@ -1,9 +1,8 @@
 ---
 title: Is CrossFit Killing your Kidneys?
 date: 2013-08-26T16:54:00.000Z
-tags: >-
-  List [ "CrossFit San Clemente" "chiropractor san clemente" "San Clemente
-  Chiropractic" "Trestles Chiropractic" ]
+tags: ["CrossFit San Clemente" "chiropractor san clemente" "San Clemente
+  Chiropractic" "Trestles Chiropractic"]
 description: >-
   If you have not heard of CrossFit by now then you are a little behind on your
   fitness trends. San Clemente alone has at least 4 crossfit gyms of its own.

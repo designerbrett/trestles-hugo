@@ -1,12 +1,9 @@
 ---
 title: Are you ready for increased Healthcare costs?
 date: 2013-09-30T07:10:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractor" "obamacare chiropractic" "chiropractor san
-  clemente" 
-
-  "chiropractic and obamacare" "San Clemente Chiropractic" "Chiropractor
-  obamacare" ]
+tags: ["San Clemente Chiropractor" "obamacare chiropractic" "chiropractor san
+  clemente" "chiropractic and obamacare" "San Clemente Chiropractic" "Chiropractor
+  obamacare"]
 description: >-
   If you have an insurance plan younger than 3 years old you may have received a
   letter like the picture in the slideshow above. This may have come as a shock

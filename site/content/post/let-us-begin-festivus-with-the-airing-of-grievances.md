@@ -1,10 +1,9 @@
 ---
 title: Let us begin Festivus with the Airing of Grievances
 date: 2013-12-24T07:38:00.000Z
-tags: >-
-  List [ "prescription drug addiction" "San Clemente Chiropractor" "death by
+tags: ["prescription drug addiction" "San Clemente Chiropractor" "death by
   prescription" "chiropractor 92672" "overdose on pain killers" "chiropractor
-  san clemente" "Festivus" "Airing of grievances" "San Clemente chiropractic" ]
+  san clemente" "Festivus" "Airing of grievances" "San Clemente chiropractic"]
 description: >-
   For many of you today is just another Monday. However, it is a Festivus for
   the rest of us! If you are unaware of the fictional holiday portrayed on the

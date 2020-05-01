@@ -1,10 +1,9 @@
 ---
 title: Why are my shoes wearing down differently?
 date: 2014-04-21T22:58:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractic" "sciatica" "Structural chiropractor san
+tags: ["San Clemente Chiropractic" "sciatica" "Structural chiropractor san
   clemente" "San Clemente Chiropractor" "knee pain" "ankle pain" "hip pain"
-  "shin splints" "it band syndrome" "uneven wear" "chiropractor san clemente" ]
+  "shin splints" "it band syndrome" "uneven wear" "chiropractor san clemente"]
 description: >-
   Have you ever stopped to look at the bottom of your work shoes or favorite
   pair of sneakers? If the answer is Yes, then you may have noticed a difference

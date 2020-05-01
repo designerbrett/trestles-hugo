@@ -3,10 +3,9 @@ title: >-
   Can Volunteering Decrease Depression?: Trestles Chiropractic is Thankful for
   Health pt.4
 date: 2013-11-26T07:51:00.000Z
-tags: >-
-  List [ "Volunteering" "depression" "San Clemente Chiropractor" "chiropractor
+tags: ["Volunteering" "depression" "San Clemente Chiropractor" "chiropractor
   san clemente" "chiropractor 92672" "chiropractor 92673" "soup kitchen" "Toys
-  for tots san clemente" ]
+  for tots san clemente"]
 description: >-
   As we approach the Thanksgiving holiday this week it is difficult to not
   reflect on all that we have and how greatly blessed we are, especially with

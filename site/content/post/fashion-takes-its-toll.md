@@ -1,9 +1,8 @@
 ---
 title: Fashion Takes its Toll
 date: 2013-07-22T17:06:00.000Z
-tags: >-
-  List [ "High Heels" "chiropractor san clemente" "San Clemente Chiropractic"
-  "Yelp" ]
+tags: ["High Heels" "chiropractor san clemente" "San Clemente Chiropractic"
+  "Yelp"]
 description: >-
   I have seen this radiograph of a woman in a heel many times and every time it
   blows my mind at the amount of stress and strain that women put on their feet

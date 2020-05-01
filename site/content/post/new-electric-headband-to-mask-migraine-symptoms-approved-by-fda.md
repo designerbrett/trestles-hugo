@@ -1,11 +1,10 @@
 ---
 title: New electric headband to mask migraine symptoms approved by FDA
 date: 2014-03-31T23:13:00.000Z
-tags: >-
-  List [ "cefaly migraines" "San Clemente Chiropractor" "normal spine" "San
+tags: ["cefaly migraines" "San Clemente Chiropractor" "normal spine" "San
   Clemente Chiropractic" "masking symptoms" "chiropractor san clemente" migraine
   headaches" "structural chiropractic" "chiropractor 92672" "chiropractor 92673"
-  ]
+]
 description: >-
   I recently read an article about the FDA approving a device called “Cefaly.”
   This device is designed to electronically stimulate the nerves most commonly

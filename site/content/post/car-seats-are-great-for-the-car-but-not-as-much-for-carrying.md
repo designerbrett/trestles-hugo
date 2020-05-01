@@ -1,11 +1,10 @@
 ---
 title: Car seats are great for the car but not as much for carrying.
 date: 2014-04-28T22:49:00.000Z
-tags: >-
-  List [ "car carrier" "San Clemente Chiropractor" "Flat head baby"
+tags: ["car carrier" "San Clemente Chiropractor" "Flat head baby"
   "chiropractor san clemente" "baby bjorn" "San Clemente Chiropractic"
   "chiropractor 92672" "structural chiropractic" "chiropractor 92673"
-  "structural shift" "structural correction" ]
+  "structural shift" "structural correction"]
 description: >-
   Today’s post is not meant to be finger pointing or shaming parents for how
   they transport their children, but more of an eye opener to social norms that

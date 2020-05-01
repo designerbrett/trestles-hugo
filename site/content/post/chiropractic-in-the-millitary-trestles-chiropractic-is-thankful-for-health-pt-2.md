@@ -3,10 +3,9 @@ title: >-
   Chiropractic in the Millitary: Trestles Chiropractic is Thankful for Health
   pt.2
 date: 2013-11-12T07:57:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractor" "USMC" "Col mark losack" "chiropractor san
+tags: ["San Clemente Chiropractor" "USMC" "Col mark losack" "chiropractor san
   clemente" "Veterans day" "veteran chiropractor" "military discount" "San
-  Clemente chiropractic" ]
+  Clemente chiropractic"]
 description: >-
   As today is Veterans day it seemed appropriate to give thanks and respect to
   those men and women who have and/or are giving of their time and service to

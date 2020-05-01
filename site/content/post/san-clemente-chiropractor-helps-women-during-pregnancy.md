@@ -1,9 +1,8 @@
 ---
 title: San Clemente Chiropractor Helps Women During Pregnancy
 date: 2013-08-19T16:58:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractor" "Pregnancy san clemente" "Pregnancy
-  chiropractor" "Chiropractor san clemente yelp" ]
+tags: ["San Clemente Chiropractor" "Pregnancy san clemente" "Pregnancy
+  chiropractor" "Chiropractor san clemente yelp"]
 description: >-
   Just the other day I had one of the women I had previously treated while
   pregnant leave me a very thoughtful review on Yelp. During the 2nd trimester

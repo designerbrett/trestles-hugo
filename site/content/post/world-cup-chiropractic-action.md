@@ -1,10 +1,9 @@
 ---
 title: World Cup Chiropractic Action
 date: 2014-06-27T22:28:00.000Z
-tags: >-
-  List [ "world cup" "San Clemente Chiropractor" "Adjustment" "greek"
+tags: ["world cup" "San Clemente Chiropractor" "Adjustment" "greek"
   "chiropractor san clemente" "San Clemente Chiropractic" "USMNT" "USA" "soccer"
-  "sports chiropractor" ]
+  "sports chiropractor"]
 description: >-
   On Tuesday I posted this screen shot of the Greek goalie receiving a
   Chiropractic adjustment during their World Cup match. I found it interesting

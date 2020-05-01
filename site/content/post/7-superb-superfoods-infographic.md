@@ -1,10 +1,9 @@
 ---
 title: 7 Superb Superfoods infographic
 date: 2014-06-13T22:31:00.000Z
-tags: >-
-  List [ "chiropractor san clemente" "structural chiropractic" "foods to add to
+tags: ["chiropractor san clemente" "structural chiropractic" "foods to add to
   diet" "superfoods" "acai" "kale" "good food" "healthy" "San Clemente
-  Chiropractic" "chiropractor 92672" ]
+  Chiropractic" "chiropractor 92672"]
 description: >-
   Last week I shared a piece about 10 foods that are banned in other countries
   but are legal in the United States. After that post, I received several

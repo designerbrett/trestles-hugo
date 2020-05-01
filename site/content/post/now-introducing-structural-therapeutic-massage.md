@@ -1,10 +1,9 @@
 ---
 title: Now introducing Structural Therapeutic Massage!
 date: 2015-06-16T21:51:00.000Z
-tags: >-
-  List [ "chiropractor san clemente" "San Clemente Chiropractic" "massage san
+tags: ["chiropractor san clemente" "San Clemente Chiropractic" "massage san
   clemente" "massage" "chiropractor" "Yelp" "auto accident" "Pregnancy"
-  "Prenatal" "Pediatric chiropractor" ]
+  "Prenatal" "Pediatric chiropractor"]
 description: >-
   We here at Trestles Chiropractic are continually growing and looking to
   improve the Structural Function of the spine the best way we can. Recently we

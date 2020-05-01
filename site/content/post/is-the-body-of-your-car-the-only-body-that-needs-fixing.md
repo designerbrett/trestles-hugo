@@ -1,10 +1,9 @@
 ---
 title: Is the body of your car the only body that needs fixing?
 date: 2014-03-18T06:07:00.000Z
-tags: >-
-  List [ "San Clemente Chiropractor" "car accident" neck pain" "whiplash"
+tags: ["San Clemente Chiropractor" "car accident" neck pain" "whiplash"
   "t-bone" "fender bender" "auto collision repair" "chiropractor 92672" "body
-  damage repair" "chiropractor 92673" "Personal Injury" ]
+  damage repair" "chiropractor 92673" "Personal Injury"]
 description: >-
   Often after a car accident people are more concerned with the damage that has
   been done to their vehicle. This makes sense as cars are expensive and the

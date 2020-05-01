@@ -1,10 +1,9 @@
 ---
 title: Why is America the unhealthiest out of 17 developed nations?
 date: 2014-03-04T07:01:00.000Z
-tags: >-
-  List [ "america Unhealthiest" "chiropractor san clemente" "USA death
+tags: ["america Unhealthiest" "chiropractor san clemente" "USA death
   statistics" "San Clemente Chiropractic" "USA maternal complication statistics" "chiropractor 92672" "Fast Food dead end" "chiropractor 92673" "Healthy People 2020" "orange county
-  chiropractor" ]
+  chiropractor"]
 description: >-
   In a report released just over a year ago, the United States was ranked lowest
   amongst its peer nations with regard to overall health of the population. To

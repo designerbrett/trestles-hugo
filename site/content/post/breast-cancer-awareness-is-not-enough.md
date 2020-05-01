@@ -1,10 +1,9 @@
 ---
 title: Breast Cancer Awareness is Not Enough
 date: 2013-10-07T07:08:00.000Z
-tags: >-
-  List [ "Breast cancer awareness" "San Clemente Chiropractor" "chiropractor san
+tags: ["Breast cancer awareness" "San Clemente Chiropractor" "chiropractor san
   clemente" "breast cancer prevention" "breast cancer chiropractic" "breast
-  cancer self examination" ]
+  cancer self examination"]
 description: >-
   The month of October is known for many exciting things; Post-season Baseball,
   Hockey, and Halloween at the forefront. However many of us neglect that
