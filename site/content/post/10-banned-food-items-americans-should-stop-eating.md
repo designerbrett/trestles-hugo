@@ -5,7 +5,7 @@ description: >-
   I came across this article on the Mercola website. It had this really awesome
   Infographic that I feel is beneficial to everyone. I found it interesting that
   the FDA approved these items that are...
-tags: ["chiropractor san clemente" "structural chiropractic" "foods to avoid" "bad food" "gmo" "San Clemente Chiropractic" "chiropractor 92672"]
+tags: ["chiropractor san clemente", "structural chiropractic", "foods to avoid", "bad food", "gmo", "San Clemente Chiropractic", "chiropractor 92672"]
 ---
 I came across this article on the [Mercola](http://www.mercola.com/infographics/10-banned-foods.htm?x_cid=20140605_infographiclink_facebookdoc "mercola") website. It had this really awesome Infographic that I feel is beneficial to everyone. I found it interesting that the FDA approved these items that are banned in many 1st world countries like England, Australia, and Canada.
 

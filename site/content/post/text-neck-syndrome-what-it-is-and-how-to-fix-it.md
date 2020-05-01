@@ -1,5 +1,5 @@
 ---
-title: 'Text Neck Syndrome: What It Is and How to Fix It?'
+title: Text Neck Syndrome: What It Is and How to Fix It?
 date: 2018-05-01T21:31:00.000Z
 description: >-
   “Text Neck,” the newest buzzword you may have heard lately is affecting
