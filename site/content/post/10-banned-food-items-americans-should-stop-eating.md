@@ -1,5 +1,5 @@
 ---
-title: 10 Banned Food items Americans should stop eating
+title: 10 Banned Food items Americans should stop eating,
 date: 2014-06-06T22:36:00.000Z
 tags: ["chiropractor san clemente" "structural chiropractic" "foods to avoid"
   "bad food" "gmo" "San Clemente Chiropractic" "chiropractor 92672"]
