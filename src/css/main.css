@@ -691,6 +691,19 @@ img {
     }
 }
 
+.Meet .content img {
+	float: left;
+  width: 30%;
+  margin-right: 24px;
+}
+@media only screen and (max-width: 600px) {
+    .Meet .content img {
+	    margin: 0;
+	    float: none;
+	    width: 100%;
+    }
+}
+
 .post-row {
     margin-bottom: 32px;
     list-style: none;
