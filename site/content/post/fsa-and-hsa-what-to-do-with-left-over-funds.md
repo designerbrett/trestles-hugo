@@ -20,10 +20,10 @@ For some 2014 will bring a new bonus as employers have an option to “roll over
 
 **So what to do with those left over funds in that HSA or FSA?**
 
-This[](<>) [San Clemente Chiropractic](../index.html "San Clemente Chiropractic") office does not want you to lose out on those health funds that will disappear on Jan 1st. We allow patients to “Bank” visits in our office. Meaning that you can pre-purchase visits at our cash rate that will not expire. So even if you are not in need of your next chiropractic visit you can rest assured that you are covered for the number of visits you purchase so that the expense does not have to come out of next years account and you can utilize those funds for other medical needs that you may have.
+This [San Clemente Chiropractic](../index.html "San Clemente Chiropractic") office does not want you to lose out on those health funds that will disappear on Jan 1st. We allow patients to “Bank” visits in our office. Meaning that you can pre-purchase visits at our cash rate that will not expire. So even if you are not in need of your next chiropractic visit you can rest assured that you are covered for the number of visits you purchase so that the expense does not have to come out of next years account and you can utilize those funds for other medical needs that you may have.
 
-You do not need to be a current patient of Trestles Chiropractic to take advantage of this program. Call[](<>) [Dr Anderson](../meet-doctors.html "Dr Ryan Anderson") today to get started on Banking office visits before Jan 1st!
+You do not need to be a current patient of Trestles Chiropractic to take advantage of this program. Call [Dr Anderson](../meet-doctors.html "Dr Ryan Anderson") today to get started on Banking office visits before Jan 1st!
 
 **Toy Drive**
 
-Trestles Chiropractic is continuing to serve as a drop location for[](<>) [Toys For Tots](can-volunteering-decrease-depression-trestles-chiropractic-thankful-health-pt4.html "toys for tots") this Holiday season. Please feel free to bring a toy and enter into our[](<>) [Holiday Raffle](../raffle.html "Holiday Raffle") to win an iPod Nano!!
+Trestles Chiropractic is continuing to serve as a drop location for [Toys For Tots](can-volunteering-decrease-depression-trestles-chiropractic-thankful-health-pt4.html "toys for tots") this Holiday season. Please feel free to bring a toy and enter into our [Holiday Raffle](../raffle.html "Holiday Raffle") to win an iPod Nano!!

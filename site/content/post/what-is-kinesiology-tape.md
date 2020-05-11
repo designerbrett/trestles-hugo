@@ -29,6 +29,6 @@ Rock tape, KT and Kinesio brand are available on Amazon for about $15-20 per rol
 
 My recommendation would be to stop by [http://rocktape.com/](http://rocktape.com/ "rock tape") and pick some up. They often have sales on them. I also will be selling Rock tape in my office and doing Kinesiology taping sessions.
 
-**If you are interested I am offering a deal for first time users where if you check in to my**[](<>) **[Chiropractors in San Clemente Yelp](http://www.yelp.com/biz/trestles-chiropractic-san-clemente "Chiropractors in San Clemente Yelp") page I will give you a FREE kinesiology tape demo!! It's a great deal to come try it out for yourself.**
+**If you are interested I am offering a deal for first time users where if you check in to my** **[Chiropractors in San Clemente Yelp](http://www.yelp.com/biz/trestles-chiropractic-san-clemente "Chiropractors in San Clemente Yelp") page I will give you a FREE kinesiology tape demo!! It's a great deal to come try it out for yourself.**
 
 Here is a video from the rock tape site about how to apply the tape. This should give you an idea of how it works.

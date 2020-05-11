@@ -13,7 +13,7 @@ A Healthier New Year Class: Thursday Jan 29th 7:30-8:30pm at [Trestles Chiroprac
 
 Free Community Health class where attendees will get information on how they can set appropriate health goals for the new year. Sharon Stewart RN will be speaking about Take shape for life and setting appropriate health goals for 2015. Dr. Ryan Anderson DC will be speaking about the role that [structural correction](../why-structural-chiropractic.html "Structural Correction") can play in achieving a greater level of health.
 
-All in attendance will receive a complimentary[](<>) [Trestles Chiropractic](../index.html "Trestles Chiropractic") Swag bag with stickers and a water bottle. Attendees will also receive raffle tickets toward our prize drawings for gift certificates to local establishments like: Hanson's Market, Banzai Bowl, and other local food establishments. See you Thursday!
+All in attendance will receive a complimentary [Trestles Chiropractic](../index.html "Trestles Chiropractic") Swag bag with stickers and a water bottle. Attendees will also receive raffle tickets toward our prize drawings for gift certificates to local establishments like: Hanson's Market, Banzai Bowl, and other local food establishments. See you Thursday!
 
 ![swag bag of trestles chiropractic stuff](img/swag_0_itok-v2i6rswn.jpg "Swag bag of trestles chiropractic stuff")
 

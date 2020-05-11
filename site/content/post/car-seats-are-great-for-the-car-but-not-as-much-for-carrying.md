@@ -32,4 +32,4 @@ According to an article from the [International Chiropractic Pediatric Associati
 * Is the weight of the baby evenly distributed for the wearer’s comfort while using the carrier?
 * Does the carrier cause repetitive stress and postural compensations to one area of the wearer’s spine?
 
-If you have any questions regarding the [Structural development](../what-structural-shift.html "Structural Shirf") of your child please come in for a [](<>)[Complimentary Consultation](../schedule-complimentary-consultation.html "complimentary consultation").
+If you have any questions regarding the [Structural development](../what-structural-shift.html "Structural Shirf") of your child please come in for a [Complimentary Consultation](../schedule-complimentary-consultation.html "complimentary consultation").

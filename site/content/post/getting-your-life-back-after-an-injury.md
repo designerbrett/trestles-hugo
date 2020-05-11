@@ -18,4 +18,4 @@ While it would be easy for me to take the credit for what “I did”, with usin
 
 Keep in mind that not every patient I see and visit with experience this kind of immediate response to chiropractic. In most cases people see results in roughly 6-10 visits. Even though Steve has seen major improvement we still have a lot of work to do and we will continue to work together to get him to a place that he is happy with.
 
-If you or someone you know has found themselves unable to perform like before. Or is frustrated with the limitations their body is putting on them, please do not hesitate to [](<>)[Ask The Doctor](../ask-doctor.html "Ask the Doctor") or come in for a[](<>) [complementary consultation](../index.html "complementary consultation") to see if Chiropractic can help you get your life back.
+If you or someone you know has found themselves unable to perform like before. Or is frustrated with the limitations their body is putting on them, please do not hesitate to [Ask The Doctor](../ask-doctor.html "Ask the Doctor") or come in for a [complementary consultation](../index.html "complementary consultation") to see if Chiropractic can help you get your life back.

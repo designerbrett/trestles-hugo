@@ -9,7 +9,7 @@ description: >-
   other Chiropractors have helped many by treating...
 image: img/normal-structure-web_0_itok-w6ehco4s.jpg
 ---
-Many of you know that we take Structural Radiographs at our[](<>) [San Clemente Chiropractic](../index.html "San Clemente Chiropractic") office. We do this to get to the source of the problem. Many other Chiropractors have helped many by treating their [Secondary Conditions](../what-are-secondary-conditions.html "Secondary Conditions") (symptoms). However, we often find that this type of treatment is short-lived. This is why we focus on detection and identification of Primary Conditions, like [Structural Shift](../what-structural-shift.html "Structural Shirf").
+Many of you know that we take Structural Radiographs at our [San Clemente Chiropractic](../index.html "San Clemente Chiropractic") office. We do this to get to the source of the problem. Many other Chiropractors have helped many by treating their [Secondary Conditions](../what-are-secondary-conditions.html "Secondary Conditions") (symptoms). However, we often find that this type of treatment is short-lived. This is why we focus on detection and identification of Primary Conditions, like [Structural Shift](../what-structural-shift.html "Structural Shirf").
 
 The big news for today is that we now have an upgraded Digital radiography system at our office. We are very excited about this as it allows us to continue to properly identify Structural shifts, while exposing our patients to lower levels of radiation to achieve a higher quality image.
 
