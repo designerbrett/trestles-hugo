@@ -1,10 +1,19 @@
 ---
 title: 12 Hacks to get the most out of Obamacare
 date: 2014-01-07T07:28:00.000Z
-tags: ["healthcare hack", "San Clemente Chiropractic", "healthcare.gov", "San
-  Clemente Chiropractor", "obesity screenings", "Dr. Ryan Anderson", "Breastfeeding
-  support", "chiropractor 92673", "Vision screening", "chiropractor 92672",
-  "Chiropractic adjustment", Trestles Chiropractic"]
+tags:
+  - healthcare hack
+  - San Clemente Chiropractic
+  - healthcare.gov
+  - San Clemente Chiropractor
+  - obesity screenings
+  - Dr. Ryan Anderson
+  - Breastfeeding support
+  - chiropractor 92673
+  - Vision screening
+  - chiropractor 92672
+  - Chiropractic adjustment
+  - Trestles Chiropractic"
 description: >-
   According to the Healthcare.gov site, “Preventive care helps you stay healthy.
   A doctor isn’t someone to see only when you’re sick. Doctors also provide
@@ -27,17 +36,17 @@ Even our new Obamacare site with all of its bugs and glitches at least understan
 
 **Women**
 
-6. Breastfeeding comprehensive support and counseling\
-a. Including access to breastfeeding supplies\
+6. Breastfeeding comprehensive support and counseling
+   a. Including access to breastfeeding supplies
 7. Domestic and interpersonal violence screening and counseling
 
 **Children**
 
 8. Height, weight, and Body Mass Index measurements\
-a. Can be done 5 times periodically until 18 years of age\
-9. Obesity screening and counseling\
-10. Oral Health Risk Assessment\
-a. Can be done 4 times periodically until 10 years of age\
+   a. Can be done 5 times periodically until 18 years of age
+9. Obesity screening and counseling
+10. Oral Health Risk Assessment
+    a. Can be done 4 times periodically until 10 years of age
 11. Vision Screening
 
-The **12th hack** may or may not be included in your states preventative services offered. Chiropractic services are now available to many throughout the nation who have never had the opportunity to take a proactive approach to their health and stop the pain before it sets in. For Californians this service is not covered by the Affordable Care Act. However, this[](<>) [San Clemente Chiropractor](../index.html "San Clemente Chiropractor") office is prepared to offer an affordable cash rate to those who now have access to health care. Message us at our[](<>) [Ask the Doctor](http://www.trestleschiropractic.com/contact-us "contact us") page today to find out what kind of coverage is available for your health plan.
+The **12th hack** may or may not be included in your states preventative services offered. Chiropractic services are now available to many throughout the nation who have never had the opportunity to take a proactive approach to their health and stop the pain before it sets in. For Californians this service is not covered by the Affordable Care Act. However, this [San Clemente Chiropractor](../index.html "San Clemente Chiropractor") office is prepared to offer an affordable cash rate to those who now have access to health care. Message us at our [Ask the Doctor](http://www.trestleschiropractic.com/contact-us "contact us") page today to find out what kind of coverage is available for your health plan.
