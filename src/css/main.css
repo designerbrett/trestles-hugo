@@ -654,6 +654,8 @@ img {
     vertical-align: top;
     width: 31%;
     margin-left: 2%;
+    border: none;
+    padding-bottom: 0;
 }
 .Home .post-row:nth-child(1) {
     margin: 0;
@@ -788,6 +790,7 @@ img {
     display: inline-block;
     vertical-align: top;
     margin-right: 8px;
+    margin-bottom: 8px;
 }
 .tag-display li a {
     background: #f1f1f1;
