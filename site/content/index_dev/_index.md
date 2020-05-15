@@ -1,8 +1,11 @@
 ---
-title: 10 Questions You Should Ask Before Visiting a Chiropractor
+title: Index Dev
+Image CTA:
+  - image: img/schedule-cta_itok=oD5kaBcN.png
+    title: Schedule a Complimentary Consultation
+    url: 'https://trestleschiropractic.com/schedule-complimentary-consultation.html'
+  - image: img/laser_0_itok=4eJx9Xxd.png
+    url: 'https://trestleschiropractic.com/schedule-complimentary-consultation.html'
+    title: High Power Laser Therapy vs Cold Laser (LLLT)
 ---
-Here is a list of common questions I am asked by new and perspective patients. I hope this is a help to you. Even if I am not the Chiropractor you chose to visit, these are questions you should have answered by the chiropractor you chose to see. I am also available to answer any other questions you might have during a free consultation.
-
-Click the link below or right click and save link as to get your copy of the ebook.
-
-[Click to Download the eBook](https://trestleschiropractic.com/files/Questions-to-have-answered-prior-to-visiting-a-Chiropractor.pdf)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec quam ut nulla malesuada sodales a vel enim. Sed a pretium mi. Nullam vitae lacus at nulla eleifend fermentum. Cras in finibus erat. Etiam vitae risus non magna congue aliquam id nec nunc. Etiam facilisis erat enim, a gravida mi congue vitae. In laoreet mauris turpis, maximus porta metus finibus vel. Suspendisse ac tellus accumsan, ultricies ipsum ut, finibus metus. Phasellus suscipit sodales odio, sit amet vehicula lectus lobortis a. Donec sit amet risus tristique ex sollicitudin hendrerit eu at lorem. Mauris sed nulla a neque imperdiet mattis in sit amet tortor. Vivamus lorem tortor, iaculis id dolor ac, malesuada volutpat sem. Proin congue metus mi, sed volutpat metus rhoncus quis. Pellentesque ultricies lectus arcu, eu rutrum sem condimentum eu. Sed massa sem, euismod vel mauris id, fringilla suscipit nunc.
