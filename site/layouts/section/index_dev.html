@@ -6,9 +6,9 @@
     
 		<h1>{{.sectionTitle}}</h1>
 		
-		{{ range .icons }}
+		{{ range .index_dev }}
 			<div class="ph2-ns w-50-ns mb4">
-				<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
+				<img src="{{ .image }}" alt="{{ .alt }}">
 				<p>{{ .title }}</p>
 			</div>
 		{{ end }}
