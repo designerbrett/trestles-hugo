@@ -90,7 +90,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Button", name: "button", widget: "string"},
               {label: "URL", name: "url", widget: "string"}]}
           - {label: Body, name: body, widget: markdown}
-          - {label: SectionTitle, name: sectionTitle, widget: string}
+          - {label: Titleinner, name: titleinner, widget: string}
           - {label: "ImageCTA", name: imagecta, widget: list, fields: [
               {label: "Image", name: "image", widget: "image"},
               {label: "Alt", name: "alt", widget: "string"},
