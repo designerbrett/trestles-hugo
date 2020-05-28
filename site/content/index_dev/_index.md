@@ -1,4 +1,0 @@
----
-title: Index Dev
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec quam ut nulla malesuada sodales a vel enim. Sed a pretium mi. Nullam vitae lacus at nulla eleifend fermentum. Cras in finibus erat. Etiam vitae risus non magna congue aliquam id nec nunc. Etiam facilisis erat enim, a gravida mi congue vitae. In laoreet mauris turpis, maximus porta metus finibus vel. Suspendisse ac tellus accumsan, ultricies ipsum ut, finibus metus. Phasellus suscipit sodales odio, sit amet vehicula lectus lobortis a. Donec sit amet risus tristique ex sollicitudin hendrerit eu at lorem. Mauris sed nulla a neque imperdiet mattis in sit amet tortor. Vivamus lorem tortor, iaculis id dolor ac, malesuada volutpat sem. Proin congue metus mi, sed volutpat metus rhoncus quis. Pellentesque ultricies lectus arcu, eu rutrum sem condimentum eu. Sed massa sem, euismod vel mauris id, fringilla suscipit nunc.

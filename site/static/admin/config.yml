@@ -73,12 +73,5 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/index_dev/_index.md"
-        label: "Index Dev Page"
-        name: "index_dev"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-          - {label: CTAOne, name: ctaone, widget: markdown}
     
 
