@@ -927,3 +927,7 @@ footer .footer-stay-connected-block a.yellowpages:before {
 .Tele-examination .container.tele-form {
     max-width: 800px;
 }
+.small-text p {
+    font-size: 14px;
+    line-height: 20px;
+}
