@@ -10,24 +10,24 @@
         <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
       </p>
       <p>
-          <label><strong>First Name:</strong> <input type="text" name="first-name" placeholder="First Name"/></label>
+          <label><strong>First Name:</strong> <input type="text" name="first-name" placeholder="First Name" required/></label>
       </p>
-        <p><label><strong>Last Name:</strong> <input type="text" name="last-name" placeholder="Last Name" /></label></p>
-        <p><label><strong>Address:</strong> <input type="text" name="address" placeholder="Street Address"/></label></p>
-        <p><label><strong>City:</strong> <input type="text" name="city" placeholder="City"></label></p>
+        <p><label><strong>Last Name:</strong> <input type="text" name="last-name" placeholder="Last Name" required/></label></p>
+        <p><label><strong>Address:</strong> <input type="text" name="address" placeholder="Street Address" required/></label></p>
+        <p><label><strong>City:</strong> <input type="text" name="city" placeholder="City" required></label></p>
             
         <div class="row">
           <div class="columns two">
-              <p><label><strong>State:</strong> <input type="text" id="state" name="state" placeholder="State"></label></p>
+              <p><label><strong>State:</strong> <input type="text" id="state" name="state" placeholder="State" required></label></p>
           </div>
           <div class="columns two last">
-              <p><label><strong>Zip:</strong> <input type="text" id="zip" name="zip" placeholder="Zip code"></label></p>
+              <p><label><strong>Zip:</strong> <input type="text" id="zip" name="zip" placeholder="Zip code" required></label></p>
           </div>
         </div>
         
-        <p><label><strong>Phone Number:</strong> <input type="tel" id="phone" name="phone" placeholder="Phone Number"></label></p>
-        <p><label><strong>Date of Birth:</strong> <input type="date" id="date-of-birth" name="date-of-birth"></label>
-        <p><label><strong>Email:</strong> <input type="text" name="email" placeholder="Email Address" /></label></p>
+        <p><label><strong>Phone Number:</strong> <input type="tel" id="phone" name="phone" placeholder="Phone Number" required></label></p>
+        <p><label><strong>Date of Birth:</strong> <input type="date" id="date-of-birth" name="date-of-birth required"></label>
+        <p><label><strong>Email:</strong> <input type="text" name="email" placeholder="Email Address" required/></label></p>
         
         <hr>
         
@@ -50,7 +50,7 @@
             <label><input type="checkbox"> fatigue</label>
         </label></p>
         
-        <p><label><input type="checkbox"> <strong>To my knowledge I have not been exposed to anyone with covid-19 in the last 2 weeks</strong></label></p>
+        <p><label><input type="checkbox" required> <strong>To my knowledge I have not been exposed to anyone with covid-19 in the last 2 weeks</strong></label></p>
         
         <p><label><strong>Is your condition due to an accident?</strong></label>
             <label><input type="radio" name="condition"> Yes</label><label><input type="radio" name="condition"> No</label>
@@ -82,8 +82,9 @@
         <p>I fully understand these risks, the doctor has explained them to me and I consent to chiropractic care by typing my name and todays date below.</p>
         </div>
         
-    <p><label><strong>Full Name:</strong> <input type="text" name="full-name" placeholder="Full Name" /></label></p>
-    <p><label><strong>Todays Date:</strong> <input type="date" id="todays-date" name="todays-date"></label></p>
+    <p><label><strong>Full Name:</strong> <input type="text" name="full-name" placeholder="Full Name" required/></label></p>
+    <p><label><strong>Todays Date:</strong> <input type="date" id="todays-date" name="todays-date" required></label></p>
+    <p><label><input type="checkbox" required> <strong>Checking the checkbox is equivalent to a handwritten signature</strong></label></p>
         
         <hr>
         <br>
