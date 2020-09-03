@@ -31,6 +31,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/telehealth/_index.md"
+        label: "Telehealth Page"
+        name: "telehealth"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"
