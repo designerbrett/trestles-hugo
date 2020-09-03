@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="container">
+<div class="container tele-form">
     <h1>{{ .Title }}</h1>
     
     {{ .Content }}
@@ -17,16 +17,18 @@
         <p><label>City <input type="text" name="city" placeholder="City"></label></p>
             
         <div class="row">
-          <div class="col-50">
+          <div class="columns two">
             <p><label>State <input type="text" id="state" name="state" placeholder="State"></label></p>
           </div>
-          <div class="col-50">
+          <div class="columns two last">
             <p><label>Zip <input type="text" id="zip" name="zip" placeholder="Zip code"></label></p>
           </div>
         </div>
         
         <p><label>Phone Number: <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"></label></p>
         <p><label>Email: <input type="text" name="email" /></label></p>
+        
+        <hr>
         
         <p><label>have you experienced any of the following in the last 2 weeks?:
             <label><input type="checkbox"> dizziness</label>
@@ -53,6 +55,8 @@
             <label><input type="checkbox"> Yes</label><label><input type="checkbox"> No</label>
         </p>
         
+        <hr>
+        
         <h3>CONSENT TO CHIROPRACTIC EXAMINATION</h3>
         <p>Congratulations for having chosen the safest and most natural health care program ever conceived: Chiropractic.</p>
 
@@ -76,29 +80,32 @@
         
     <p><label>Full Name: <input type="text" name="full-name" /></label></p>
     <p><label>Todays Date: <input type="date" id="todays-date" name="todays-date"></label></p>
+        
+        <hr>
+        <h3>Tele-examination Fee - $15.00</h3>
+        <div style="overflow: auto;">
+          <a target="_blank" href="https://checkout.square.site/pay/736e090392474e1da22c4b827b283a7b" style="
+            display: inline-block;
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 18px;
+            line-height: 48px;
+            height: 48px;
+            padding-left: 48px;
+            padding-right: 48px;
+            color: #ffffff;
+            min-width: 165px;
+            background-color: #000000;
+            border-radius: 4px;
+            text-align: center;
+            box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
+          ">Pay now</a>
+        </div>
+        <hr>
        
         <p><button type="submit">Submit my request for an examination</button></p>
     </form>
     
-    <div style="overflow: auto;">
-      <p>Tele-examination</p>
-      <p>$15.00</p>
-      <a target="_blank" href="https://checkout.square.site/pay/736e090392474e1da22c4b827b283a7b" style="
-        display: inline-block;
-        font-family: Helvetica, Arial, sans-serif;
-        font-size: 18px;
-        line-height: 48px;
-        height: 48px;
-        padding-left: 48px;
-        padding-right: 48px;
-        color: #ffffff;
-        min-width: 165px;
-        background-color: #000000;
-        border-radius: 4px;
-        text-align: center;
-        box-shadow: 0 0 0 1px rgba(0,0,0,.1) inset;
-      ">Pay now</a>
-    </div>
+    
 </div>
 
 {{ end }}
