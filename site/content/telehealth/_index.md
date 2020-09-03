@@ -1,5 +1,5 @@
 ---
-title: Telehealth
+title: Tele-examination
 values:
   - heading: Shade-grown coffee
     text: >
@@ -37,4 +37,4 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 ---
-Content placed here
+The examination is not a guarantee that they will be given a recommendation for medical massage.
