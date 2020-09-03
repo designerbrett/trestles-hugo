@@ -1,5 +1,5 @@
 ---
-title: Ask the Doctor
+title: Telehealth
 values:
   - heading: Shade-grown coffee
     text: >
@@ -37,16 +37,4 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 ---
-[653 Camino De Los Mares #100 San Clemente, CA 92673](https://maps.google.com/maps?q=131+w+el+portal,+san+clemente,+ca+92670&ie=UTF-8&hq=&hnear=0x80dcf40ce2bafe29:0x680cd58aa6ba4cdc,131+W+El+Portal,+San+Clemente,+CA+92672&gl=us&ei=GPjIUe-kI8_oigLPhoHwBg&ved=0CC8Q8gEwAA)
-
-[949-284-6620](tel:949-284-6620)
-
-### Office Hours
-
-Monday: 9:00 AM - 7:00 PM\
-Tuesday: 9:00 AM - 7:00 PM\
-Wednesday: Closed\
-Thursday: 9:00 AM - 7:00 PM\
-Friday: Closed\
-Saturday: 10:00AM - 12:30 PM\
-Sunday: Closed
+Content placed here
