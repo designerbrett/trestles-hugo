@@ -1,5 +1,5 @@
 ---
-title: Tele-examination
+title: Tele-Examination
 values:
   - heading: Shade-grown coffee
     text: >
