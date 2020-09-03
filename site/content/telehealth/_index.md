@@ -37,4 +37,4 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 ---
-The examination is not a guarantee that they will be given a recommendation for medical massage.
+The examination is not a guarantee that you will be given a recommendation for a medical massage.
