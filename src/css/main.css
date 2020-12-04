@@ -934,3 +934,8 @@ footer .footer-stay-connected-block a.yellowpages:before {
 span.required {
     color: red;
 }
+
+
+.Tele-Examination select.symptoms-list {
+	height: 300px;
+}
