@@ -939,3 +939,8 @@ span.required {
 .Tele-Examination select.symptoms-list {
 	height: 300px;
 }
+@media only screen and (max-width: 550px) {
+	.Tele-Examination select.symptoms-list {
+		height: auto;
+	}
+}
