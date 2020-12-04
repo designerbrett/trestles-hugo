@@ -36,10 +36,7 @@
 		      <option value="follower">Follower</option>
 		    </select></label>
 		    
-		    <label>Your Role: <select name="role[]">
-		      <option value="leader">Yes</option>
-		      <option value="follower">No</option>
-		    </select></label>
+		    
 		        
         <p><label><strong>have you experienced any of the following in the last 2 weeks?:<span class="required">*</span></strong>
             <label><input type="checkbox"> dizziness</label>
@@ -61,10 +58,13 @@
         </label></p>
         
         <p><label><input type="checkbox" required> <strong>To my knowledge I have not been exposed to anyone with covid-19 in the last 2 weeks<span class="required">*</span></strong></label></p>
-        
-        <p><label><strong>Is your condition due to an accident?<span class="required">*</span></strong></label>
-            <label><input type="radio" name="condition"> Yes</label><label><input type="radio" name="condition"> No</label>
-        </p>
+            
+            <p><label><strong>Is your condition due to an accident?<span class="required">*</span></strong>
+	            <select name="accident[]">
+					      <option value="yes">Yes</option>
+					      <option value="no">No</option>
+					    </select>
+				    </label></p>
         
         <hr>
         
