@@ -1003,5 +1003,9 @@ li.hours-block:before {
 .home-locations h2 {
 	text-align: center;
 }
+.home-locations .columns {
+	background: #FFFFFF;
+	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
+}
 
 
