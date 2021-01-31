@@ -1002,10 +1002,17 @@ li.hours-block:before {
 
 .home-locations h2 {
 	text-align: center;
+	margin: 0 0 24px;
 }
 .home-locations a {
 	text-decoration: none;
 	color: #333;
+}
+.home-locations a.button {
+	color: #FFF;
+}
+.home-locations p.phone {
+	font-style: italic;
 }
 .home-locations .columns {
 	background: #FFFFFF;
