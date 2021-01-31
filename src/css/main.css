@@ -951,13 +951,19 @@ span.required {
 	background: #EEEEEE;
 	border: 1px solid #CACACA;
 	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
+	bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    text-align: center;
+    font-size: 16px;
 }
 .sticky-info-footer h4 {
 	font-size: 18px;
 	line-height: 24px;
 }
 .sticky-info-footer ul {
-	margin: 0;
+	margin: 4px 0 12px 0;
 	padding: 0;
 }
 .sticky-info-footer ul li {
@@ -970,4 +976,25 @@ span.required {
 }
 .sticky-info-footer ul li.last {
 	border: none;
+}
+.sticky-info-footer ul li a {
+	text-decoration: none;
+  color: #9458a1;
+}
+
+li.address-block:before {
+    background-image: url(/img/home.png);
+}
+li.phone-block:before {
+    background-image: url(/img/phone.png);
+}
+li.hours-block:before {
+    background-image: url(/img/clock.png);
+}
+.sticky-info-footer li.address-block:before, 
+.sticky-info-footer li.hours-block:before, 
+.sticky-info-footer li.phone-block:before {
+    float: none !important;
+    display: inline-block;
+    vertical-align: middle;
 }
