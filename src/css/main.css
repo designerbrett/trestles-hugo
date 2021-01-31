@@ -1021,11 +1021,15 @@ li.hours-block:before {
 .home-locations .columns {
 	background: #FFFFFF;
 	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
+	margin-bottom: 16px;
 }
 .home-locations .columns.two {
 	width: 44%;
   margin-right: 3%;
   padding: 2%;
+}
+.home-locations .columns.two.last {
+	margin: 0;
 }
 .home-locations .contact {
 	text-align: center;
