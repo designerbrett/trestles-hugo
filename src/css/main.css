@@ -1031,5 +1031,12 @@ li.hours-block:before {
 	text-align: center;
 	float: right;
 }
-
+.home-locations .hours p {
+	margin: 0;
+}
+@media only screen and (max-width: 550px) {
+	.home-locations .columns.two {
+		width: 96%;
+	}
+}
 
