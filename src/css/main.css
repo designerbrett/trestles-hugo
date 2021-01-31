@@ -265,13 +265,13 @@ nav li a.active {
 li.address-block:before, 
 li.phone-block:before, 
 li.hours-block:before {
-    background-size: 32px;
+    background-size: 24px;
     background-repeat: no-repeat;
     background-position: center center;
     float: left;
     margin-right: 10px;
-    width: 32px;
-    height: 32px;
+    width: 24px;
+    height: 24px;
     content: "";
 }
 li.address-block:before {
@@ -952,12 +952,12 @@ span.required {
 	border: 1px solid #CACACA;
 	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
 	bottom: 0;
-    left: 0;
-    width: 100%;
-    z-index: 9999;
-    text-align: center;
-    font-size: 16px;
-    position: fixed;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+  text-align: center;
+  font-size: 16px;
+  position: fixed;
 }
 .sticky-info-footer h4 {
 	font-size: 18px;
@@ -1000,6 +1000,8 @@ li.hours-block:before {
     vertical-align: middle;
 }
 
-
+.home-locations h2 {
+	text-align: center;
+}
 
 
