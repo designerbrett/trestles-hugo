@@ -3,13 +3,46 @@
 <div class="container">
     <h1>{{ .Title }}</h1>
 
-    <div class="sidebar sidebar-left">
-				<iframe width="100%" height="300" src="https://maps.google.com/maps?width=300&amp;height=300&amp;hl=en&amp;q=653%20Camino%20De%20Los%20Mares%20%23100%20San%20Clemente%2C%20CA%2092673+(Trestles%20Chiropractic)&amp;ie=UTF8&amp;t=&amp;z=15&amp;iwloc=A&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.maps.ie/map-my-route/">Draw map route</a></iframe>
-				{{ .Content }}
-    </div>
-    <div class="main-with-sidebar">
-        {{ partial "contact-form" . }}
-    </div>
+		<div class="container home-locations">
+			<h2>Locations</h2>
+			<div class="columns two">
+				<div class="contact">
+					<a class="button" href="tel:949-284-6620"><img width="15px" style="margin-right: 8px;" src="/img/phone-white.png">Give Us a Call</a>
+					<p class="phone">949-284-6620</p>
+				</div>
+			
+				<div class="location">
+					<h3>San Clemente</h3>
+					<p><a href="https://goo.gl/maps/JPMf2oZWNBU2zDuo7" target="_blank">653 Camino De Los Mares #100<br>
+					San Clemente, CA 92673</a></p>
+				</div>
+				
+				<div class="hours">
+					<p>Mon, Tues, & Thurs 9am-7pm, Sat 10am-12:30pm</p>
+				</div>
+			</div>
+			<div class="columns two last">
+				<div class="contact">
+					<a class="button" href="tel:949-264-3252"><img width="15px" style="margin-right: 8px;" src="/img/phone-white.png">Give Us a Call</a>
+					<p class="phone">949-264-3252</p>
+				</div>
+			
+				<div class="location">
+					<h3>Mission Viejo</h3>
+					<p><a href="https://goo.gl/maps/F3T7giV7oRAxeS9ZA" target="_blank">653 Camino De Los Mares #100<br>
+					San Clemente, CA 92673</a></p>
+				</div>
+				
+				<div class="hours">
+					<p>Wed & Fri 11am-5pm, Sat 1pm-3:30pm</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+    	{{ partial "contact-form" . }}
+		</div>
+
 </div>
 
 {{ end }}

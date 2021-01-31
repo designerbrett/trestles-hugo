@@ -999,7 +999,9 @@ li.hours-block:before {
     display: inline-block;
     vertical-align: middle;
 }
-
+.home-locations {
+	margin-bottom: 24px;
+}
 .home-locations h2 {
 	text-align: center;
 	margin: 0 0 24px;
