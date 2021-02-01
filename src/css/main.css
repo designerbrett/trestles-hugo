@@ -7,6 +7,7 @@
 
 body {
   margin-top: 120px;
+  padding-bottom: 146px;
   font-family: 'Titillium Web',sans-serif;
   font-size: 18px;
   line-height: 30px;
@@ -816,10 +817,17 @@ footer {
 footer .container {
     padding: 50px 0;
 }
-footer .nav li {
+footer .columns.two {
+	margin-bottom: 16px;
+}
+footer ul.nav {
+	text-align: right;
+}
+footer ul.nav li {
 	display: inline-block;
 	vertical-align: top;
 	font-weight: bold;
+	padding-left: 16px;
 }
 footer ul {
     margin: 0;
