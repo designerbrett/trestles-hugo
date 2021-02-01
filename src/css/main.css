@@ -816,17 +816,6 @@ footer {
 footer .container {
     padding: 50px 0;
 }
-footer .columns.two.locations {
-    width: 46%;
-    margin-right: 2%;
-    padding-right: 2%;
-    border-right: 1px solid #9b9b9b;
-}
-footer .columns.four.locations.last {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
 footer .nav li {
 	display: inline-block;
 	vertical-align: top;
