@@ -816,14 +816,18 @@ footer {
 footer .container {
     padding: 50px 0;
 }
-footer .columns.four {
-    width: 22%;
-    margin: 0 3% 0 0;
+footer .columns.two {
+    width: 46%;
+    margin-right: 2%;
+    padding-right: 2%;
+    border-right: 1px solid #9b9b9b;
 }
 footer .columns.four.last {
     margin: 0;
+    padding: 0;
+    border: none;
 }
-footer nav li {
+footer .nav li {
 	display: inline-block;
 	vertical-align: top;
 	font-weight: bold;
