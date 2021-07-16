@@ -45,8 +45,8 @@ values:
 
 Monday: 9:00 AM - 7:00 PM\
 Tuesday: 9:00 AM - 7:00 PM\
-Wednesday: Closed\
+Wednesday:  9:00 AM - 7:00 PM\
 Thursday: 9:00 AM - 7:00 PM\
-Friday: Closed\
+Friday:  9:00 AM - 7:00 PM\
 Saturday: 10:00AM - 12:30 PM\
 Sunday: Closed
