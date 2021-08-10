@@ -7,8 +7,6 @@ text: null
 
 Place testimonials here
 
-<hr>
-
 ## Testimonial 02
 
 Place testimonials here
