@@ -43,6 +43,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/testimonials/_index.md"
+        label: "Testimonials Page"
+        name: "testimonials"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/schedule-complimentary-consultation/_index.md"
         label: "Schedule Complimentary Consultation Page"
         name: "schedule-complimentary-consultation"
