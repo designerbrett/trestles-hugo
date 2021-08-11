@@ -1,13 +1,13 @@
 ---
-title: Meet the Doctor
+title: Meet the Doctors
 logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
+    text: 3153 Lynn Avenue, South San Francisco, California 94080
   - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
+    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 heading: About
-text: 'Text of some sort :)'
+text: Text of some sort :)
 ---
 ![Doctor Anderson hold his son with his wife to the left.](img/Family.jpg)
 
@@ -17,4 +17,14 @@ Dr. Anderson grew up locally in Yorba Linda where he attended Esperanza High sch
 
 After working alongside other chiropractic colleagues in Placentia and Garden Grove, the decision to start his own practice was made. Dr. Anderson began his [San Clemente Chiropractic](http://www.trestleschiropractic.com/contact-us "San Clemente Chiropractic") office in July of 2013. Dr Anderson works part time in the film business as a Medical Technical Advisor most recently on Season 2 of the Netflix show Dead to Me.
 
-Dr.[](<>)Ryan Anderson and his wife Danielle have made San Clemente their home and welcomed their son Rex to their family in 2015 and their daughter Sage in 2019. Dr. Anderson had enjoyed visiting San Clemente and particularly his regular surf locations such as Barbwires and Cottons to surf. He is a proud member of Beach Cities BNI and President emeritus of the Pacific Coast chapter of BNI as well. Dr. Ryan Anderson and his family spend most of their free time at the beach and enjoying the culture of their Spanish Village by the sea. Dr. Anderson looks forward to meeting you and your family and working with you as your [Chiropractor in San Clemente](http://www.trestleschiropractic.com/ "Chiropractor in San Clemente").
+Dr. [](<>)Ryan Anderson and his wife Danielle have made San Clemente their home and welcomed their son Rex to their family in 2015 and their daughter Sage in 2019. Dr. Anderson had enjoyed visiting San Clemente and particularly his regular surf locations such as Barbwires and Cottons to surf. He is a proud member of Beach Cities BNI and President emeritus of the Pacific Coast chapter of BNI as well. Dr. Ryan Anderson and his family spend most of their free time at the beach and enjoying the culture of their Spanish Village by the sea. Dr. Anderson looks forward to meeting you and your family and working with you as your [Chiropractor in San Clemente](http://www.trestleschiropractic.com/ "Chiropractor in San Clemente").
+
+![](img/dr-emery-bio-photo.jpg)
+
+## Emery Lipp DC
+
+Dr. Emery was born and raised in the Upper Midwest in a town named Bismarck, North Dakota. She started visiting the chiropractor at a very young age and took a special interest in human anatomy and holistic healthcare. She attended NDSU in Fargo, ND for her undergraduate education where she received her bachelor's in Biology/Zoology in 2017. She continued to graduate school at Northwestern Health Sciences University in Bloomington, MN, where she obtained her Doctorate of Chiropractic degree. She moved to the sunny state of California in August of 2020 to pursue her career. 
+
+Dr. Emery aims to provide proper movement therapy and education to individuals in the community by focusing on soft tissue & joint mobilization, MRT (Myofascial Release Technique), corrective exercises, stretching, and other positive lifestyle modifications. Regular chiropractic care with Dr. Emery allows patients the chance to utilize their full potential and create a healthy & happy lifestyle.
+
+When Dr. Emery is not at the office, she enjoys exploring beaches on the west coast, hiking in the mountains, attending live music, and cooking. She pursues a healthy and active lifestyle with running, yoga, weight training, stretching, and focusing on a diverse and plant-rich diet.
