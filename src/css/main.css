@@ -1037,6 +1037,7 @@ li.hours-block:before {
 	font-style: italic;
 	padding-top: 8px;
 }
+.home-locations .column,
 .home-locations .columns {
 	background: #FFFFFF;
 	box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.1);
