@@ -824,7 +824,7 @@ footer ul.nav {
 	text-align: right;
 }
 footer ul.nav li {
-	display: inline-block;
+	
 	vertical-align: top;
 	font-weight: bold;
 	padding-left: 16px;
@@ -857,10 +857,10 @@ footer .footer-hours-block ul li span {
     font-weight: 100;
 }
 footer .footer-stay-connected-block {
-	text-align: center;
+	
 }
 footer .footer-stay-connected-block li {
-	display: inline-block;
+	
 	vertical-align: middle;
 }
 footer .footer-stay-connected-block a:before {
