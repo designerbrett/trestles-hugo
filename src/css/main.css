@@ -821,7 +821,7 @@ footer .columns.two {
 	margin-bottom: 16px;
 }
 footer ul.nav {
-	text-align: right;
+	
 }
 footer ul.nav li {
 	
@@ -1045,6 +1045,11 @@ li.hours-block:before {
 .home-locations .columns.two {
 	width: 44%;
   margin-right: 3%;
+  padding: 2%;
+}
+.home-locations .column {
+    width: 93%;
+    margin-right: 3%;
   padding: 2%;
 }
 .home-locations .columns.two.last {
