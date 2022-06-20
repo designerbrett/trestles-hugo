@@ -3,7 +3,7 @@ title: Laser
 ---
 ![Laser header with image of device and a happy woman](img/screen-shot-2017-08-09-at-1.58.32-pm_itok-raqafc9u.png "Page image header")
 
-## Get started today with our introductory package (Examination, 3 single area Laser treatments) Starting at $119!
+## Get started today with our introductory package (Examination, 3 single area Laser treatments)!
 
 **Cold Laser Therapy or Low-Leve Laser (LLLT)**
 
