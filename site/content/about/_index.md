@@ -18,13 +18,3 @@ Dr. Anderson grew up locally in Yorba Linda where he attended Esperanza High sch
 After working alongside other chiropractic colleagues in Placentia and Garden Grove, the decision to start his own practice was made. Dr. Anderson began his [San Clemente Chiropractic](http://www.trestleschiropractic.com/contact-us "San Clemente Chiropractic") office in July of 2013. Dr Anderson works part time in the film business as a Medical Technical Advisor most recently on Season 2 of the Netflix show Dead to Me.
 
 Dr. [](<>)Ryan Anderson and his wife Danielle have made San Clemente their home and welcomed their son Rex to their family in 2015 and their daughter Sage in 2019. Dr. Anderson had enjoyed visiting San Clemente and particularly his regular surf locations such as Barbwires and Cottons to surf. He is a proud member of Beach Cities BNI and President emeritus of the Pacific Coast chapter of BNI as well. Dr. Ryan Anderson and his family spend most of their free time at the beach and enjoying the culture of their Spanish Village by the sea. Dr. Anderson looks forward to meeting you and your family and working with you as your [Chiropractor in San Clemente](http://www.trestleschiropractic.com/ "Chiropractor in San Clemente").
-
-## Ashley Davies DC
-
-Dr. Ashley was born and raised in Grass Valley, a small town in Northern California. Growing up she spent most of her time dancing ballet, jazz, and modern. She knew from a young age she wanted to help people and always dreamed of being a doctor. To start the process she attended University of California, Davis and earned a degree in Clinical Nutrition. Near the end of her schooling she knew being a traditional medical doctor is not what she wanted to be, and clinical nutrition was not the right fit either. She had spent so much time learning how amazing and self healing the body can be, and wanted to find a way to teach that to others in a way they could actually use in their daily life. 
-
-After her mom's first trip to a chiropractor, Dr. Ashley learned how regular chiropractic care allows the brain to communicate with the body so that the body can function and heal at its optimum potential. She instantly knew being a chiropractor is what she was born to be. Without ever being adjusted herself, she enrolled in Life Chiropractic College West in Hayward, California to pursue her Doctorate of Chiropractic.
-
-Since graduating in 2019 Dr. Ashley has been practicing and sharing her passion with people of all ages- from newborns to 90 year olds. She loves taking care of people and helping them reach their goals!
-
-When she is not in the office you can find Dr. Ashley at the beach with her golden retriever and german shepard, paddle boarding, or at a concert!

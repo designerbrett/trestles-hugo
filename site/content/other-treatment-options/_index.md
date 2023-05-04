@@ -5,4 +5,4 @@ There are a wide variety of treatment options offered by both medical and altern
 
 All of these treatment programs are effective in the appropriate time and place and have different goals. Our goal at Trestles Chiropractic is to restore your Structural integrity.
 
-Our Doxtors have built relationships with health care providers throughout the community. If during the consultation they find that Structural Correction Chiropractic isn’t right for you, we will make sure to find the best practitioner to help resolve your specific condition.
+Our Doctors have built relationships with health care providers throughout the community. If during the consultation they find that Structural Correction Chiropractic isn’t right for you, we will make sure to find the best practitioner to help resolve your specific condition.
