@@ -1,5 +1,15 @@
-baseurl = "/"
+baseurl = "https://trestleschiropractic.com/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Trestles Chiropractic | San Clemente Chiropractor"
+
+# SEO Configuration
+enableRobotsTXT = true
+canonifyURLs = true
+
+# Sitemap Configuration
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
