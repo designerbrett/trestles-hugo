@@ -21,6 +21,9 @@
   },
   "author": "",
   "license": "MIT",
+  "resolutions": {
+    "qs": "^6.13.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/plugin-proposal-object-rest-spread": "^7.11.0",
