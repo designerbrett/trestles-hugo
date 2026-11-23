@@ -1,7 +1,8 @@
 ---
 title: Laser
+description: "High power laser therapy vs. cold laser (LLLT) at Trestles Chiropractic in San Clemente. Faster, non-invasive relief for pain and soft tissue injuries."
 ---
-![Laser header with image of device and a happy woman](img/screen-shot-2017-08-09-at-1.58.32-pm_itok-raqafc9u.png "Page image header")
+![Laser header with image of device and a happy woman](img/screen-shot-2017-08-09-at-1.58.32-pm_itok-raqafc9u.webp "Page image header")
 
 ## Get started today with our introductory package (Examination, 3 single area Laser treatments)!
 
@@ -29,6 +30,6 @@ High power or Class IV lasers are also used to treat superficial injuries. Howev
 * Plantar Fasciitis
 * Most joint, muscle, circulatory and inflammatory conditions
 
-![Laser Brochure cover](img/front-brochure.png "Brochure cover")
+![Laser Brochure cover](img/front-brochure.webp "Brochure cover")
 
-![Laser Brochure inside content](img/inside-brochure.png "Brochure inside")
+![Laser Brochure inside content](img/inside-brochure.webp "Brochure inside")

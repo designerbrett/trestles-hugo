@@ -1,7 +1,6 @@
 ---
 title: Testimonials
-heading: null
-text: null
+description: "Read reviews and testimonials from patients of Dr. Ryan Anderson at Trestles Chiropractic, a structural chiropractor in San Clemente, CA."
 ---
 ## Testimonial 01
 

@@ -6,4 +6,4 @@
   publish = "dist"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "HUGO_BASEURL=$DEPLOY_PRIME_URL yarn build:preview"

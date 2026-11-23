@@ -1,5 +1,6 @@
 ---
 title: What is a Structural Shift?
+description: "What is a structural shift? Learn how spinal misalignment leads to pain and degeneration, and how structural correction chiropractic in San Clemente helps."
 ---
 In healthcare, there are established normal values for many things. There’s a standard for normal blood pressure, normal cholesterol, and normal vision. It doesn’t mean that we expect everyone to have a PERFECT measure, but there are healthy ranges for people depending on their age and situation.
 

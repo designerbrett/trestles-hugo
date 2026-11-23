@@ -1,13 +1,6 @@
 ---
 title: Meet the Doctors
-logo: /img/logo.svg
-contact_entries:
-  - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
-heading: About
-text: Text of some sort :)
+description: "Meet Dr. Ryan Anderson DC of Trestles Chiropractic, a San Clemente chiropractor specializing in structural correction since 2013."
 ---
 ![Doctor Anderson hold his son with his wife to the left.](img/Family.jpg)
 

@@ -49,6 +49,6 @@ I will not be recommending Laser therapy for every patient as it is not indicate
 
 **\- Most joint, muscle, circulatory and inflammatory conditions**
 
-![](img/inside-brochure.png)
+![High power laser therapy brochure, inside pages](img/inside-brochure.webp)
 
-![](img/front-brochure.png)
+![High power laser therapy brochure cover](img/front-brochure.webp)

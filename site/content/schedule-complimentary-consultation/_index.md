@@ -1,5 +1,6 @@
 ---
 title: Schedule Complimentary Consultation
+description: "Schedule a free, no-pressure consultation with a structural chiropractor serving San Clemente, Dana Point, San Juan Capistrano and Laguna Niguel."
 ---
 **Trestles Chiropractic is the Ultimate resource for Structural Correction in San Clemente, Dana Point, San Juan Capistrano, and Laguna Niguel.**
 
