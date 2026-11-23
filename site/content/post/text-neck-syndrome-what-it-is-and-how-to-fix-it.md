@@ -90,7 +90,7 @@ How to perform:
 
 At the end of the day, you can only do so much to treat text neck syndrome by yourself. One mistake at home and you might even end up with a more severe injury, causing pain and forcing you to spend money on expensive forms of treatments like surgery.
 
-That’s why we highly recommend getting in touch with our [professional chiropractors](http://trestleschiropractic.com/index.html) who have experience in dealing with such conditions.
+That’s why we highly recommend getting in touch with our [professional chiropractors](/) who have experience in dealing with such conditions.
 
 They’ll not only recommend you the best course of action based on your needs but provide structural correction with utmost gentleness and care.
 

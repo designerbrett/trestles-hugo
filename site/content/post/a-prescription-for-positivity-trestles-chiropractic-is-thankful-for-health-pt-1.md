@@ -16,18 +16,18 @@ What would your reaction be if you received a prescription and rather than seein
 
 In an article on [healthline](http://www.healthline.com/health/depression/giving-thanks "Healthline") they cite an article by Robert Emmons, psychology professor at UC Davis, who has found through his research on **“positive psychology”** that those who adopt the **“attitude of gratitude”** mindset tend to do the following:
 
-* take better care of themselves [physically and mentally](worlds-oldest-gymnast-shows-how-stay-active-your-80s.html "physical care")
+* take better care of themselves [physically and mentally](/post/worlds-oldest-gymnast-shows-how-to-stay-active-into-your-80s/ "physical care")
 * engage in more protective health behaviors and maintenance
-* get more regular [exercise](power-power-walk.html "exercise")
+* get more regular [exercise](/post/the-power-of-the-power-walk/ "exercise")
 * eat a healthier diet
 * have improved mental alertness
 * schedule wellness check-ups
-* cope better with [stress](stress-affects-your-quality-life.html "Stress") and daily challenges
+* cope better with [stress](/post/stress-affects-your-quality-of-life/ "Stress") and daily challenges
 * feel happier and more optimistic
 * avoid problematic physical symptoms
-* have [stronger immune systems](diy-flu-shot-alternatives.html "immune system")
+* have [stronger immune systems](/post/diy-flu-shot-alternatives/ "immune system")
 * maintain a brighter view of the future
 
-In this [San Clemente Chiropractic](../index.html "San Clemente Chiropractic") office we look beyond the outward symptoms that initially bring a patient to the office and search for what we call Subluxation. 3 factors that comprise subluxation are physical, emotional and chemical stressors. So negativity would fall into the emotional category. Getting control over a negative attitude can take away 1/3 of the emotional stress that can lead to other health related issues.
+In this [San Clemente Chiropractic](/ "San Clemente Chiropractic") office we look beyond the outward symptoms that initially bring a patient to the office and search for what we call Subluxation. 3 factors that comprise subluxation are physical, emotional and chemical stressors. So negativity would fall into the emotional category. Getting control over a negative attitude can take away 1/3 of the emotional stress that can lead to other health related issues.
 
-[Trestles Chiropractic](http://www.trestleschiropractic.com/contact-us "Trestles Chiropractic") will continue to talk about Being Thankful for Health for the next 3 blog posts. So, follow along to learn how being grateful for what you have can help you be healthy!
+[Trestles Chiropractic](/contact/ "Trestles Chiropractic") will continue to talk about Being Thankful for Health for the next 3 blog posts. So, follow along to learn how being grateful for what you have can help you be healthy!
