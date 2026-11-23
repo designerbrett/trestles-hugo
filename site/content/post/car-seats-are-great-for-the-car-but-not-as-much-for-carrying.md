@@ -13,7 +13,7 @@ image: img/single-flyer-with-ahs_0_itok-1molqyl2.png
 ---
 Today’s post is not meant to be finger pointing or shaming parents for how they transport their children, but more of an eye opener to social norms that may not be the best for the structural development of our children.
 
-Just about every parent uses the “bucket” style car seat. While this is a great safety tool for your child while in a motor vehicle, it may not be the best choice when shopping or after you get home. Often the infant is finally sleeping and the last thing you’d want to do is to wake them. However the position they are in is not optimal for the development of their [spinal structure](../why-structural-chiropractic.html "structural correction").
+Just about every parent uses the “bucket” style car seat. While this is a great safety tool for your child while in a motor vehicle, it may not be the best choice when shopping or after you get home. Often the infant is finally sleeping and the last thing you’d want to do is to wake them. However the position they are in is not optimal for the development of their [spinal structure](/what-structural-shift/ "structural correction").
 
 Babies are born with a C curve in the spine and over time they will develop the other curves in the neck and low back as they are exposed to gravity and time on their stomach. The unfortunate thing about the bucket seats is that they keep the child in the same C shape and do not allow for any extension of the neck and low back. A 20 min car ride is no big deal but when the child is left in this position for hours at a time the formation of these curves becomes delayed. They are also finding that babies can develop flat spots on their heads when they spend too much time lying on their back or in car seats.
 
@@ -32,4 +32,4 @@ According to an article from the [International Chiropractic Pediatric Associati
 * Is the weight of the baby evenly distributed for the wearer’s comfort while using the carrier?
 * Does the carrier cause repetitive stress and postural compensations to one area of the wearer’s spine?
 
-If you have any questions regarding the [Structural development](../what-structural-shift.html "Structural Shirf") of your child please come in for a [Complimentary Consultation](../schedule-complimentary-consultation.html "complimentary consultation").
+If you have any questions regarding the [Structural development](/what-structural-shift/ "Structural Shirf") of your child please come in for a [Complimentary Consultation](/schedule-complimentary-consultation/ "complimentary consultation").

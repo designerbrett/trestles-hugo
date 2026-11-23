@@ -18,4 +18,4 @@ For most people Health insurance is a very expensive monthly service that they b
 
 If you would like to get an idea of what kind of fees you can expect from your new plan feel free to use the **insurance premium calculator** below.
 
-As always feel free to contact your [San Clemente Chiropractor](../ask-doctor.html "San Clemente Chiropractor") with any questions or concerns about [Chiropractic and Obamacare](obamacare-may-be-taking-away-your-san-clemente-chiropractic-coverage.html "Chiropractic and Obamacare").
+As always feel free to contact your [San Clemente Chiropractor](/contact/ "San Clemente Chiropractor") with any questions or concerns about [Chiropractic and Obamacare](/post/obamacare-may-be-taking-away-your-san-clemente-chiropractic-coverage/ "Chiropractic and Obamacare").
