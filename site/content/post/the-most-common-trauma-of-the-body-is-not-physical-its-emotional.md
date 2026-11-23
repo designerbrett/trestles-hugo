@@ -14,7 +14,7 @@ tags: |-
 description: Many may find the following statement confusing because when most
   of us think of trauma, we think of a life-threatening car accident. The two
   big umbrellas of trauma are physical and emotional.
-image: img/dr-fairley-truama-repost.png
+image: img/dr-fairley-truama-repost.webp
 ---
 \
 Physical trauma may include a serious accident, life threatening illness, war, or abuse. No doubt, such traumatizing situations have a huge impact on the body, specifically when causing injury. Chiropractors can certainly help in the rehabilitation of physical injuries.\

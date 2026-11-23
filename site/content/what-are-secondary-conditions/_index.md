@@ -1,5 +1,6 @@
 ---
 title: What Are Secondary Conditions?
+description: "Learn how a structural shift in the spine causes secondary conditions like back pain, neck pain and migraines. San Clemente chiropractor."
 ---
 ## Common Secondary Conditions – Cause and Types
 

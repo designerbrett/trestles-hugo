@@ -1,5 +1,6 @@
 ---
 title: Other Treatment Options
+description: "Compare chiropractic structural correction with other treatment options for pain, and see how Trestles Chiropractic in San Clemente can help."
 ---
 There are a wide variety of treatment options offered by both medical and alternative medicine practitioners. Most doctors are focused on pain and symptom relief (secondary conditions), and they do an excellent job. People often start with medication or herbal/homeopathic remedies which can shut off pain receptors. If that doesn’t work, then courses of physical therapy may be used to strengthen muscular weakness, address spasm, or increase mobility. Injection programs to calm the site of pain come in next. When those don’t work, more invasive procedures like surgery start to fall into the picture.
 

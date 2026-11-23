@@ -19,7 +19,7 @@ body {
     }
 }
 .region-highlighted {
-    background: url(/img/interior-header.png) no-repeat center bottom;
+    background: url(/img/interior-header.webp) no-repeat center bottom;
     min-height: 170px;
     position: relative;
 }
@@ -553,7 +553,7 @@ img {
     }
 }
 .form-section {
-    background: url(/img/form-background.png) no-repeat center center;
+    background: url(/img/form-background.webp) no-repeat center center;
     background-size: cover;
     padding: 80px 0;
 }
@@ -811,7 +811,7 @@ img {
 
 footer {
   color: #FFF;
-  background: #686F77 url(/img/footer-bg.png) center bottom;
+  background: #686F77 url(/img/footer-bg.webp) center bottom;
   clear: both;
 }
 footer .container {

@@ -7,7 +7,7 @@ description: >-
   I had the opportunity this last weekend to go down to T-street where the
   Stoke-o-Rama competition was going on. This annual event is put on by San
   Clemente’s own Gudauskas brothers. Entry is free for...
-image: img/stoked-gud_itok-yakoo0wa.png
+image: img/stoked-gud_itok-yakoo0wa.webp
 ---
 I had the opportunity this last weekend to go down to T-street where the [Stoke-o-Rama competition](http://www.sanclementetimes.com/blog/2013/08/09/gudauskas-bros-stoke-o-rama-returns/ "Stoke-o-rama returns") was going on. This annual event is put on by San Clemente’s own Gudauskas brothers. Entry is free for the kids who participate in this event. And the money they raise from sponsors, sales of Tees, and donations goes towards helping children have access to swimming lessons. The local boys spent their day signing hats and commentating during the event. Patrick Gudauskas was well involved thought the day despite competing in the [Hurley Pro at Lower Trestles](http://www.thehurleypro.com/ "The Hurley Pro") the following day. The positive vibes from the event were in full force this morning as Pat defeated Ace Buchnan to advance to the 3rd round.
 
