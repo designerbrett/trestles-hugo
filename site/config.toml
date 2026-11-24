@@ -13,3 +13,11 @@ canonifyURLs = true
   filename = "sitemap.xml"
   priority = 0.5
 
+
+[params]
+  # Cloudflare dashboard → Analytics & Logs → Web Analytics → Add site → copy the token from the snippet
+  cloudflareAnalyticsToken = "88e865cbd7c04284903944afd5bb0776"
+  # Search Console → Add property (URL prefix) → HTML tag → copy the content="" value
+  googleSiteVerification = ""
+  # Practice Lobby click tracking. Local: HUGO_PARAMS_PRACTICELOBBYHUB=http://localhost:5173 yarn start
+  practiceLobbyHub = "https://app.practicelobby.com"

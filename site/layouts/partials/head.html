@@ -136,13 +136,24 @@
 	</script>
 	{{ end }}
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-42136421-1"></script>
+{{ $prod := eq (getenv "CONTEXT") "production" }}
+{{ with .Site.Params.googleSiteVerification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{ end }}
+{{ if $prod }}{{ with .Site.Params.cloudflareAnalyticsToken }}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ . }}"}'></script>
+{{ end }}{{ end }}
+{{ with .Site.Params.practiceLobbyHub }}
+<script defer src="{{ . }}/api/t.js"{{ if not (getenv "CONTEXT") }} data-domain="trestleschiropractic.com"{{ end }}></script>
+{{ end }}
+
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X10TSS56NG"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-42136421-1');
+  gtag('config', 'G-X10TSS56NG');
 </script>
 </head>
