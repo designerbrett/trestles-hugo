@@ -75,18 +75,13 @@
 			"longitude": -117.6120
 		},
 		"openingHoursSpecification": [
+			{{ range $i, $s := site.Data.practicelobby.openingHours }}{{ if $i }},{{ end }}
 			{
 				"@type": "OpeningHoursSpecification",
-				"dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
-				"opens": "09:00",
-				"closes": "19:00"
-			},
-			{
-				"@type": "OpeningHoursSpecification",
-				"dayOfWeek": "Saturday",
-				"opens": "09:00",
-				"closes": "13:00"
-			}
+				"dayOfWeek": {{ $s.days }},
+				"opens": {{ $s.opens }},
+				"closes": {{ $s.closes }}
+			}{{ end }}
 		],
 		"sameAs": [
 			"https://www.facebook.com/Drrandersonchiro",

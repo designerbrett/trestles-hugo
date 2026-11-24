@@ -16,12 +16,9 @@
 			</div>
 			<div class="columns two last footer-hours-block">
 				<ul>
-					<li>Monday <span>9 AM - 7 PM </span></li>
-					<li>Tuesday <span>9 AM - 7 PM </span></li>
-					<li>Wednesday <span>9 AM - 7 PM </span></li>
-					<li>Thursday <span>9 AM - 7 PM </span></li>
-					<li>Friday <span>9 AM - 7 PM </span></li>
-					<li class="last">Saturday <span>9 AM - 1 PM</span></li>
+					{{ $open := where site.Data.practicelobby.days "open" true }}
+					{{ range $i, $d := $open }}<li{{ if eq (add $i 1) (len $open) }} class="last"{{ end }}>{{ $d.day }} <span>{{ $d.text }}</span></li>
+					{{ end }}
 				</ul>
 			</div>
 		</div>
